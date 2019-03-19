@@ -1,0 +1,3 @@
+/workspace/tabulae/parsers/horace-morphology/inflection.a: /workspace/tabulae/parsers/horace-morphology/inflection/adjinfl.a /workspace/tabulae/parsers/horace-morphology/inflection/advinfl.a /workspace/tabulae/parsers/horace-morphology/inflection/gerundinfl.a /workspace/tabulae/parsers/horace-morphology/inflection/indeclinfl.a /workspace/tabulae/parsers/horace-morphology/inflection/infininfl.a /workspace/tabulae/parsers/horace-morphology/inflection/irreginfl.a /workspace/tabulae/parsers/horace-morphology/inflection/nouninfl.a /workspace/tabulae/parsers/horace-morphology/inflection/ptcplinfl.a /workspace/tabulae/parsers/horace-morphology/inflection/supineinfl.a /workspace/tabulae/parsers/horace-morphology/inflection/verbinfl.a
+%.a: %.fst
+	/usr/bin/fst-compiler-utf8 $< $@

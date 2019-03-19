@@ -1,0 +1,13 @@
+StemUrn#LexicalEntity#String#Gender#Case#Number#Degree
+
+livymorph.irrambo1#lexent.n2176#ambo#masc#nom#pl#pos
+livymorph.irrambo2#lexent.n2176#ambo#masc#voc#pl#pos
+livymorph.irrambo3#lexent.n2176#ambo#masc#acc#pl#pos
+livymorph.irrambo3b#lexent.n2176#ambos#masc#acc#pl#pos
+livymorph.irrambo4#lexent.n2176#ambo#neut#nom#pl#pos
+livymorph.irrambo5#lexent.n2176#ambo#neut#voc#pl#pos
+livymorph.irrambo6#lexent.n2176#ambo#neut#acc#pl#pos
+livymorph.irrambo7#lexent.n2176#ambae#fem#nom#pl#pos
+livymorph.irrambo8#lexent.n2176#ambae#fem#voc#pl#pos
+livymorph.irrambo9#lexent.n2176#ambas#fem#acc#pl#pos
+livymorph.irrambo10#lexent.n2176#unis#masc#abl#pl#pos

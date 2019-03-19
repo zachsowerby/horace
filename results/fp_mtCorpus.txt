@@ -1,0 +1,2429 @@
+> a
+<u>livymorph.indecl3</u><u>ls.n4</u>a<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> ab
+<u>livymorph.indecl4</u><u>ls.n5</u>ab<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> abactos
+<u>livymorph.comp2_1</u><u>ls.n87</u><#>abact<verb><pftpass><div><pftpass><ptcpl>os<masc><acc><pl><pft><pass><u>livymorph.pft_perfppl10</u>
+> abiit
+no result for abiit
+> abire
+no result for abire
+> absens
+no result for absens
+> absolvere
+<u>livymorph.comp4_3</u><u>ls.n223</u><#>absolv<verb><c3pres><div><c3pres><verb>ere<2nd><sg><pres><indic><pass><u>livymorph.ere3_c3prespres8b</u>
+<u>livymorph.comp4_3</u><u>ls.n223</u><#>absolv<verb><c3pres><div><c3pres><verb>ere<2nd><sg><fut><indic><pass><u>livymorph.ere3_c3presfut8b</u>
+<u>livymorph.comp4_3</u><u>ls.n223</u><#>absolv<verb><c3pres><div><c3pres><infin>ere<pres><act><u>livymorph.ere3_inf4</u>
+<u>livymorph.comp4_3</u><u>ls.n223</u><#>absolv<verb><pftact><div><pftact><verb>ere<3rd><pl><pft><indic><act><u>livymorph.pftact_pft6b</u>
+> absterrendo
+<u>livymorph.comp5_4</u><u>ls.n147</u><#>absterr<verb><conj2><div><conj2><gerund>endo<dat><u>livymorph.grd_conj2_2</u>
+<u>livymorph.comp5_4</u><u>ls.n147</u><#>absterr<verb><conj2><div><conj2><gerund>endo<abl><u>livymorph.grd_conj2_4</u>
+> ac
+<u>livymorph.indecl13</u><u>ls.n283</u>ac<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> accepere
+<u>livymorph.verb27</u><u>ls.n363</u><#>accep<verb><pftact><div><pftact><verb>ere<3rd><pl><pft><indic><act><u>livymorph.pftact_pft6b</u>
+> aciem
+<u>livymorph.n118</u><u>ls.n517</u>aci<noun><fem><es_ei><div><es_ei><noun>em<fem><acc><sg><u>livymorph.es_ei4</u>
+> ad
+<u>livymorph.indecl8</u><u>ls.n665</u>ad<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> adeo
+<u>livymorph.irradv2</u><u>ls.n754</u>adeo<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> adessent
+no result for adessent
+> adesset
+no result for adesset
+> adicerent
+<u>livymorph.verb29</u><u>ls.n797</u><#>adic<verb><c3iopres><div><c3iopres><verb>erent<3rd><pl><impft><subj><act><u>livymorph.ereio_conj3ioimpft18</u>
+<u>livymorph.verb29</u><u>ls.n797</u><#>adic<verb><c3iopres><div><c3iopres><verb>erent<3rd><pl><impft><subj><act><u>livymorph.ereio_c3iopresimpft18</u>
+> aditum
+no result for aditum
+> admissum
+<u>livymorph.comp3_2</u><u>ls.n902</u><#>admiss<verb><pftpass><div><pftpass><ptcpl>um<masc><acc><sg><pft><pass><u>livymorph.pft_perfppl4</u>
+<u>livymorph.comp3_2</u><u>ls.n902</u><#>admiss<verb><pftpass><div><pftpass><ptcpl>um<neut><nom><sg><pft><pass><u>livymorph.pft_perfppl25</u>
+<u>livymorph.comp3_2</u><u>ls.n902</u><#>admiss<verb><pftpass><div><pftpass><ptcpl>um<neut><voc><sg><pft><pass><u>livymorph.pft_perfppl30</u>
+> admittant
+<u>livymorph.comp3_2</u><u>ls.n902</u><#>admitt<verb><c3pres><div><c3pres><verb>ant<3rd><pl><pres><subj><act><u>livymorph.ere3_c3prespres18</u>
+> adortus
+no result for adortus
+> adulescens
+no result for adulescens
+> adversae
+<u>livymorph.comp7_6</u><u>ls.n1095</u><#>advers<verb><pftpass><div><pftpass><ptcpl>ae<fem><nom><pl><pft><pass><u>livymorph.pft_perfppl19</u>
+<u>livymorph.comp7_6</u><u>ls.n1095</u><#>advers<verb><pftpass><div><pftpass><ptcpl>ae<fem><gen><sg><pft><pass><u>livymorph.pft_perfppl14</u>
+<u>livymorph.comp7_6</u><u>ls.n1095</u><#>advers<verb><pftpass><div><pftpass><ptcpl>ae<fem><dat><sg><pft><pass><u>livymorph.pft_perfppl15</u>
+<u>livymorph.comp7_6</u><u>ls.n1095</u><#>advers<verb><pftpass><div><pftpass><ptcpl>ae<fem><voc><pl><pft><pass><u>livymorph.pft_perfppl24</u>
+> adversarentur
+<u>livymorph.verb36</u><u>ls.n1092</u><#>advers<verb><conj1><div><conj1><verb>arentur<3rd><pl><impft><subj><pass><u>livymorph.are_conj1impft24</u>
+> adversus
+<u>livymorph.comp7_6</u><u>ls.n1095</u><#>advers<verb><pftpass><div><pftpass><ptcpl>us<masc><nom><sg><pft><pass><u>livymorph.pft_perfppl1</u>
+> aedificiis
+<u>livymorph.n119</u><u>ls.n1139</u>aedifici<noun><neut><us_i><div><us_i><noun>is<neut><dat><pl><u>livymorph.us_i20</u>
+<u>livymorph.n119</u><u>ls.n1139</u>aedifici<noun><neut><us_i><div><us_i><noun>is<neut><abl><pl><u>livymorph.us_i22</u>
+> aenea
+no result for aenea
+> afuerat
+no result for afuerat
+> agendo
+<u>livymorph.verb14</u><u>ls.n1605</u><#>ag<verb><conj3><div><conj3><gerund>endo<dat><u>livymorph.grd_conj3_2</u>
+<u>livymorph.verb14</u><u>ls.n1605</u><#>ag<verb><conj3><div><conj3><gerund>endo<abl><u>livymorph.grd_conj3_4</u>
+> agendum
+<u>livymorph.verb14</u><u>ls.n1605</u><#>ag<verb><conj3><div><conj3><gerund>endum<acc><u>livymorph.grd_conj3_3</u>
+> agere
+<u>livymorph.verb14</u><u>ls.n1605</u><#>ag<verb><conj3><div><conj3><verb>ere<2nd><sg><pres><indic><pass><u>livymorph.ere3_conj3pres8b</u>
+<u>livymorph.verb14</u><u>ls.n1605</u><#>ag<verb><conj3><div><conj3><verb>ere<2nd><sg><fut><indic><pass><u>livymorph.ere3_conj3fut8b</u>
+<u>livymorph.verb14</u><u>ls.n1605</u><#>ag<verb><conj3><div><conj3><verb>ere<3rd><pl><pft><indic><act><u>livymorph.ere3_pft6b</u>
+<u>livymorph.verb14</u><u>ls.n1605</u><#>ag<verb><conj3><div><conj3><infin>ere<pres><act><u>livymorph.ere3_inf1</u>
+> agi
+<u>livymorph.verb14</u><u>ls.n1605</u><#>ag<verb><conj3><div><conj3><verb>i<1st><sg><pft><indic><act><u>livymorph.ere3_pft1</u>
+<u>livymorph.verb14</u><u>ls.n1605</u><#>ag<verb><conj3><div><conj3><infin>i<pres><pass><u>livymorph.ere3_inf2</u>
+> agri
+<u>livymorph.n120</u><u>ls.n1534</u>ag<noun><masc><er_ri><div><er_ri><noun>ri<masc><nom><pl><u>livymorph.er_ri6</u>
+<u>livymorph.n120</u><u>ls.n1534</u>ag<noun><masc><er_ri><div><er_ri><noun>ri<masc><gen><sg><u>livymorph.er_ri2</u>
+<u>livymorph.n120</u><u>ls.n1534</u>ag<noun><masc><er_ri><div><er_ri><noun>ri<masc><voc><pl><u>livymorph.er_ri12</u>
+> agrippa
+no result for agrippa
+> agris
+<u>livymorph.n120</u><u>ls.n1534</u>ag<noun><masc><er_ri><div><er_ri><noun>ris<masc><dat><pl><u>livymorph.er_ri8</u>
+<u>livymorph.n120</u><u>ls.n1534</u>ag<noun><masc><er_ri><div><er_ri><noun>ris<masc><abl><pl><u>livymorph.er_ri10</u>
+> alacritate
+<u>livymorph.n24</u><u>ls.n1675</u>alacri<noun><fem><tas_tatis><div><tas_tatis><noun>tate<fem><abl><sg><u>livymorph.tas_tatis5</u>
+> albinus
+no result for albinus
+> alia
+<u>livymorph.irralius36</u><u>lexent.n1896</u>alia<neut><voc><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irralius33</u><u>lexent.n1896</u>alia<neut><acc><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irralius30</u><u>lexent.n1896</u>alia<neut><nom><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irralius23</u><u>lexent.n1896</u>alia<fem><voc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irralius17</u><u>lexent.n1896</u>alia<fem><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irralius13</u><u>lexent.n1896</u>alia<fem><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> alienam
+<u>livymorph.adj2</u><u>ls.n1842</u>alien<adj><us_a_um><div><us_a_um><adj>am<fem><acc><sg><pos><u>adjinfl.us_a_um40</u>
+> alimenta
+<u>livymorph.n107</u><u>ls.n1846</u>aliment<noun><neut><us_i><div><us_i><noun>a<neut><nom><pl><u>livymorph.us_i18</u>
+<u>livymorph.n107</u><u>ls.n1846</u>aliment<noun><neut><us_i><div><us_i><noun>a<neut><acc><pl><u>livymorph.us_i21</u>
+<u>livymorph.n107</u><u>ls.n1846</u>aliment<noun><neut><us_i><div><us_i><noun>a<neut><voc><pl><u>livymorph.us_i24</u>
+> aliqua
+<u>livymorph.irrpaliquis29</u><u>lexent.n1874</u>aliqua<neut><acc><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpaliquis26</u><u>lexent.n1874</u>aliqua<neut><nom><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpaliquis15</u><u>lexent.n1874</u>aliqua<fem><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpaliquis11</u><u>lexent.n1874</u>aliqua<fem><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> aliquamdiu
+<u>livymorph.irradv27</u><u>ls.n1862</u>aliquamdiu<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> aliquid
+<u>livymorph.irrpaliquis24</u><u>lexent.n1874</u>aliquid<neut><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpaliquis21</u><u>lexent.n1874</u>aliquid<neut><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> alium
+<u>livymorph.irralius4</u><u>lexent.n1896</u>alium<masc><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> alius
+<u>livymorph.irralius26</u><u>lexent.n1896</u>alius<neut><gen><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irralius2</u><u>lexent.n1896</u>alius<masc><gen><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irralius14</u><u>lexent.n1896</u>alius<fem><gen><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irralius1</u><u>lexent.n1896</u>alius<masc><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> alter
+<u>livymorph.irralter11</u><u>lexent.n2015</u>alter<masc><voc><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irralter1</u><u>lexent.n2015</u>alter<masc><nom><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> alterum
+<u>livymorph.irralter4</u><u>lexent.n2015</u>alterum<masc><acc><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irralter35</u><u>lexent.n2015</u>alterum<neut><voc><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irralter28</u><u>lexent.n2015</u>alterum<neut><acc><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irralter25</u><u>lexent.n2015</u>alterum<neut><nom><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> ambos
+<u>livymorph.irrambo3b</u><u>lexent.n2176</u>ambos<masc><acc><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> amissa
+<u>livymorph.comp8_7</u><u>ls.n2260</u><#>amiss<verb><pftpass><div><pftpass><ptcpl>a<fem><nom><sg><pft><pass><u>livymorph.pft_perfppl13</u>
+<u>livymorph.comp8_7</u><u>ls.n2260</u><#>amiss<verb><pftpass><div><pftpass><ptcpl>a<fem><abl><sg><pft><pass><u>livymorph.pft_perfppl17</u>
+<u>livymorph.comp8_7</u><u>ls.n2260</u><#>amiss<verb><pftpass><div><pftpass><ptcpl>a<fem><voc><sg><pft><pass><u>livymorph.pft_perfppl18</u>
+<u>livymorph.comp8_7</u><u>ls.n2260</u><#>amiss<verb><pftpass><div><pftpass><ptcpl>a<neut><nom><pl><pft><pass><u>livymorph.pft_perfppl31</u>
+<u>livymorph.comp8_7</u><u>ls.n2260</u><#>amiss<verb><pftpass><div><pftpass><ptcpl>a<neut><acc><pl><pft><pass><u>livymorph.pft_perfppl34</u>
+<u>livymorph.comp8_7</u><u>ls.n2260</u><#>amiss<verb><pftpass><div><pftpass><ptcpl>a<neut><voc><pl><pft><pass><u>livymorph.pft_perfppl36</u>
+> amplissimi
+<u>livymorph.adj3</u><u>ls.n2365</u>ampl<adj><us_a_um><div><us_a_um><adj>issimi<masc><nom><pl><superl><u>adjinfl.us_a_um30</u>
+<u>livymorph.adj3</u><u>ls.n2365</u>ampl<adj><us_a_um><div><us_a_um><adj>issimi<masc><gen><sg><superl><u>adjinfl.us_a_um26</u>
+<u>livymorph.adj3</u><u>ls.n2365</u>ampl<adj><us_a_um><div><us_a_um><adj>issimi<masc><voc><pl><superl><u>adjinfl.us_a_um36</u>
+<u>livymorph.adj3</u><u>ls.n2365</u>ampl<adj><us_a_um><div><us_a_um><adj>issimi<neut><gen><sg><superl><u>adjinfl.us_a_um100</u>
+> animi
+<u>livymorph.n11</u><u>ls.n2636</u>anim<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>livymorph.us_i6</u>
+<u>livymorph.n11</u><u>ls.n2636</u>anim<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>livymorph.us_i2</u>
+<u>livymorph.n11</u><u>ls.n2636</u>anim<noun><masc><us_i><div><us_i><noun>i<masc><voc><pl><u>livymorph.us_i12</u>
+> animo
+<u>livymorph.n11</u><u>ls.n2636</u>anim<noun><masc><us_i><div><us_i><noun>o<masc><dat><sg><u>livymorph.us_i3</u>
+<u>livymorph.n11</u><u>ls.n2636</u>anim<noun><masc><us_i><div><us_i><noun>o<masc><abl><sg><u>livymorph.us_i5</u>
+> animum
+<u>livymorph.n11</u><u>ls.n2636</u>anim<noun><masc><us_i><div><us_i><noun>um<masc><acc><sg><u>livymorph.us_i4</u>
+> animus
+<u>livymorph.n11</u><u>ls.n2636</u>anim<noun><masc><us_i><div><us_i><noun>us<masc><nom><sg><u>livymorph.us_i1</u>
+> anno
+<u>livymorph.n10</u><u>ls.n2698</u>ann<noun><masc><us_i><div><us_i><noun>o<masc><dat><sg><u>livymorph.us_i3</u>
+<u>livymorph.n10</u><u>ls.n2698</u>ann<noun><masc><us_i><div><us_i><noun>o<masc><abl><sg><u>livymorph.us_i5</u>
+> annos
+<u>livymorph.n10</u><u>ls.n2698</u>ann<noun><masc><us_i><div><us_i><noun>os<masc><nom><sg><u>livymorph.us_i1b</u>
+<u>livymorph.n10</u><u>ls.n2698</u>ann<noun><masc><us_i><div><us_i><noun>os<masc><acc><pl><u>livymorph.us_i9</u>
+> annus
+<u>livymorph.n10</u><u>ls.n2698</u>ann<noun><masc><us_i><div><us_i><noun>us<masc><nom><sg><u>livymorph.us_i1</u>
+> ante
+<u>livymorph.indecl10</u><u>ls.n2733</u>ante<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> antiates
+no result for antiates
+> antio
+no result for antio
+> appellati
+<u>livymorph.verb37</u><u>ls.n3134</u><#>appell<verb><conj1><div><conj1><ptcpl>ati<masc><nom><pl><pft><pass><u>livymorph.are_conj1perfppl7</u>
+<u>livymorph.verb37</u><u>ls.n3134</u><#>appell<verb><conj1><div><conj1><ptcpl>ati<masc><gen><sg><pft><pass><u>livymorph.are_conj1perfppl2</u>
+<u>livymorph.verb37</u><u>ls.n3134</u><#>appell<verb><conj1><div><conj1><ptcpl>ati<masc><voc><pl><pft><pass><u>livymorph.are_conj1perfppl12</u>
+<u>livymorph.verb37</u><u>ls.n3134</u><#>appell<verb><conj1><div><conj1><ptcpl>ati<neut><gen><sg><pft><pass><u>livymorph.are_conj1perfppl26</u>
+> apud
+<u>livymorph.indecl9</u><u>ls.n3250</u>apud<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> arbitrio
+<u>livymorph.n108</u><u>ls.n3368</u>arbitri<noun><neut><us_i><div><us_i><noun>o<neut><dat><sg><u>livymorph.us_i15</u>
+<u>livymorph.n108</u><u>ls.n3368</u>arbitri<noun><neut><us_i><div><us_i><noun>o<neut><abl><sg><u>livymorph.us_i17</u>
+> arbitris
+<u>livymorph.n109</u><u>ls.n3357</u>arbit<noun><masc><er_ri><div><er_ri><noun>ris<masc><dat><pl><u>livymorph.er_ri8</u>
+<u>livymorph.n109</u><u>ls.n3357</u>arbit<noun><masc><er_ri><div><er_ri><noun>ris<masc><abl><pl><u>livymorph.er_ri10</u>
+> arbitrium
+<u>livymorph.n108</u><u>ls.n3368</u>arbitri<noun><neut><us_i><div><us_i><noun>um<neut><nom><sg><u>livymorph.us_i13</u>
+<u>livymorph.n108</u><u>ls.n3368</u>arbitri<noun><neut><us_i><div><us_i><noun>um<neut><acc><sg><u>livymorph.us_i16</u>
+<u>livymorph.n108</u><u>ls.n3368</u>arbitri<noun><neut><us_i><div><us_i><noun>um<neut><voc><sg><u>livymorph.us_i23</u>
+> arbitro
+<u>livymorph.n109</u><u>ls.n3357</u>arbit<noun><masc><er_ri><div><er_ri><noun>ro<masc><dat><sg><u>livymorph.er_ri3</u>
+<u>livymorph.n109</u><u>ls.n3357</u>arbit<noun><masc><er_ri><div><er_ri><noun>ro<masc><abl><sg><u>livymorph.er_ri</u>
+> arma
+<u>livymorph.n15</u><u>ls.n3665</u>arm<noun><neut><us_i><div><us_i><noun>a<neut><nom><pl><u>livymorph.us_i18</u>
+<u>livymorph.n15</u><u>ls.n3665</u>arm<noun><neut><us_i><div><us_i><noun>a<neut><acc><pl><u>livymorph.us_i21</u>
+<u>livymorph.n15</u><u>ls.n3665</u>arm<noun><neut><us_i><div><us_i><noun>a<neut><voc><pl><u>livymorph.us_i24</u>
+<u>livymorph.verb16</u><u>ls.n3697</u><#>arm<verb><conj1><div><conj1><verb>a<2nd><sg><pres><imptv><act><u>livymorph.are_conj1pres25</u>
+> armatus
+<u>livymorph.verb16</u><u>ls.n3697</u><#>arm<verb><conj1><div><conj1><ptcpl>atus<masc><nom><sg><pft><pass><u>livymorph.are_conj1perfppl1</u>
+> armavit
+<u>livymorph.verb16</u><u>ls.n3697</u><#>arm<verb><conj1><div><conj1><verb>avit<3rd><sg><pft><indic><act><u>livymorph.are_pft3</u>
+> armis
+<u>livymorph.n15</u><u>ls.n3665</u>arm<noun><neut><us_i><div><us_i><noun>is<neut><dat><pl><u>livymorph.us_i20</u>
+<u>livymorph.n15</u><u>ls.n3665</u>arm<noun><neut><us_i><div><us_i><noun>is<neut><abl><pl><u>livymorph.us_i22</u>
+> arreptum
+<u>livymorph.verb40</u><u>ls.n3749</u><#>arrept<verb><pftpass><div><pftpass><ptcpl>um<masc><acc><sg><pft><pass><u>livymorph.pft_perfppl4</u>
+<u>livymorph.verb40</u><u>ls.n3749</u><#>arrept<verb><pftpass><div><pftpass><ptcpl>um<neut><nom><sg><pft><pass><u>livymorph.pft_perfppl25</u>
+<u>livymorph.verb40</u><u>ls.n3749</u><#>arrept<verb><pftpass><div><pftpass><ptcpl>um<neut><voc><sg><pft><pass><u>livymorph.pft_perfppl30</u>
+> arte
+<u>livymorph.n60</u><u>ls.n3769</u>ar<noun><fem><s_tis><div><s_tis><noun>te<fem><abl><sg><u>livymorph.s_tis17</u>
+> atque
+<u>livymorph.indecl5</u><u>ls.n4275</u>atque<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> atrox
+<u>livymorph.adj4</u><u>ls.n4306</u>atro<adj><x_cis><div><x_cis><adj>x<masc><nom><sg><pos><u>livymorph.x_cis1</u>
+<u>livymorph.adj4</u><u>ls.n4306</u>atro<adj><x_cis><div><x_cis><adj>x<fem><nom><sg><pos><u>livymorph.x_cis37</u>
+<u>livymorph.adj4</u><u>ls.n4306</u>atro<adj><x_cis><div><x_cis><adj>x<neut><nom><sg><pos><u>livymorph.x_cis73</u>
+<u>livymorph.adj4</u><u>ls.n4306</u>atro<adj><x_cis><div><x_cis><adj>x<neut><acc><sg><pos><u>livymorph.x_cis76</u>
+<u>livymorph.adj4</u><u>ls.n4306</u>atro<adj><x_cis><div><x_cis><adj>x<neut><voc><sg><pos><u>livymorph.x_cis83</u>
+> atti
+no result for atti
+> attinet
+<u>livymorph.verb41</u><u>ls.n4364</u><#>attin<verb><conj2><div><conj2><verb>et<3rd><sg><pres><indic><act><u>livymorph.ere_conj2pres3</u>
+> attio
+no result for attio
+> aucta
+<u>livymorph.verb44</u><u>ls.n4470</u><#>auct<verb><pftpass><div><pftpass><ptcpl>a<fem><nom><sg><pft><pass><u>livymorph.pft_perfppl13</u>
+<u>livymorph.verb44</u><u>ls.n4470</u><#>auct<verb><pftpass><div><pftpass><ptcpl>a<fem><abl><sg><pft><pass><u>livymorph.pft_perfppl17</u>
+<u>livymorph.verb44</u><u>ls.n4470</u><#>auct<verb><pftpass><div><pftpass><ptcpl>a<fem><voc><sg><pft><pass><u>livymorph.pft_perfppl18</u>
+<u>livymorph.verb44</u><u>ls.n4470</u><#>auct<verb><pftpass><div><pftpass><ptcpl>a<neut><nom><pl><pft><pass><u>livymorph.pft_perfppl31</u>
+<u>livymorph.verb44</u><u>ls.n4470</u><#>auct<verb><pftpass><div><pftpass><ptcpl>a<neut><acc><pl><pft><pass><u>livymorph.pft_perfppl34</u>
+<u>livymorph.verb44</u><u>ls.n4470</u><#>auct<verb><pftpass><div><pftpass><ptcpl>a<neut><voc><pl><pft><pass><u>livymorph.pft_perfppl36</u>
+> auctor
+<u>livymorph.n20</u><u>ls.n4420</u>auctor<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>livymorph.0_is1</u>
+<u>livymorph.n20</u><u>ls.n4420</u>auctor<noun><masc><0_is><div><0_is><noun><masc><voc><sg><u>livymorph.0_is11</u>
+> auctore
+<u>livymorph.n20</u><u>ls.n4420</u>auctor<noun><masc><0_is><div><0_is><noun>e<masc><abl><sg><u>livymorph.0_is5</u>
+> auctorem
+<u>livymorph.n20</u><u>ls.n4420</u>auctor<noun><masc><0_is><div><0_is><noun>em<masc><acc><sg><u>livymorph.0_is4</u>
+> audaciae
+<u>livymorph.n110</u><u>ls.n4442</u>audaci<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>livymorph.a_ae6</u>
+<u>livymorph.n110</u><u>ls.n4442</u>audaci<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>livymorph.a_ae2</u>
+<u>livymorph.n110</u><u>ls.n4442</u>audaci<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>livymorph.a_ae3</u>
+<u>livymorph.n110</u><u>ls.n4442</u>audaci<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>livymorph.a_ae12</u>
+> audiebat
+<u>livymorph.verb45</u><u>ls.n4453</u><#>aud<verb><conj4><div><conj4><verb>iebat<3rd><sg><impft><indic><act><u>livymorph.ire_conj4impft3</u>
+> ausus
+<u>livymorph.verb47</u><u>ls.n4450</u><#>aus<verb><pftpass><div><pftpass><ptcpl>us<masc><nom><sg><pft><pass><u>livymorph.pft_perfppl1</u>
+> aut
+<u>livymorph.indecl6</u><u>ls.n4632</u>aut<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> autem
+<u>livymorph.indecl7</u><u>ls.n4633</u>autem<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> auxilii
+<u>livymorph.n111</u><u>ls.n4660</u>auxili<noun><neut><us_i><div><us_i><noun>i<neut><gen><sg><u>livymorph.us_i14</u>
+> auxit
+<u>livymorph.verb43</u><u>ls.n4470</u><#>aux<verb><pftact><div><pftact><verb>it<3rd><sg><pft><indic><act><u>livymorph.pftact_pft3</u>
+> bella
+<u>livymorph.n16</u><u>ls.n5147</u>bell<noun><neut><us_i><div><us_i><noun>a<neut><nom><pl><u>livymorph.us_i18</u>
+<u>livymorph.n16</u><u>ls.n5147</u>bell<noun><neut><us_i><div><us_i><noun>a<neut><acc><pl><u>livymorph.us_i21</u>
+<u>livymorph.n16</u><u>ls.n5147</u>bell<noun><neut><us_i><div><us_i><noun>a<neut><voc><pl><u>livymorph.us_i24</u>
+> belli
+<u>livymorph.n16</u><u>ls.n5147</u>bell<noun><neut><us_i><div><us_i><noun>i<neut><gen><sg><u>livymorph.us_i14</u>
+> bellis
+<u>livymorph.n16</u><u>ls.n5147</u>bell<noun><neut><us_i><div><us_i><noun>is<neut><dat><pl><u>livymorph.us_i20</u>
+<u>livymorph.n16</u><u>ls.n5147</u>bell<noun><neut><us_i><div><us_i><noun>is<neut><abl><pl><u>livymorph.us_i22</u>
+> bello
+<u>livymorph.n16</u><u>ls.n5147</u>bell<noun><neut><us_i><div><us_i><noun>o<neut><dat><sg><u>livymorph.us_i15</u>
+<u>livymorph.n16</u><u>ls.n5147</u>bell<noun><neut><us_i><div><us_i><noun>o<neut><abl><sg><u>livymorph.us_i17</u>
+> bellum
+<u>livymorph.n16</u><u>ls.n5147</u>bell<noun><neut><us_i><div><us_i><noun>um<neut><nom><sg><u>livymorph.us_i13</u>
+<u>livymorph.n16</u><u>ls.n5147</u>bell<noun><neut><us_i><div><us_i><noun>um<neut><acc><sg><u>livymorph.us_i16</u>
+<u>livymorph.n16</u><u>ls.n5147</u>bell<noun><neut><us_i><div><us_i><noun>um<neut><voc><sg><u>livymorph.us_i23</u>
+> benigne
+<u>livymorph.adj5</u><u>ls.n5195</u>benign<adj><us_a_um><div><us_a_um><adj>e<masc><voc><sg><pos><u>adjinfl.us_a_um11</u>
+<u>livymorph.adj5</u><u>ls.n5195</u>benign<adj><us_a_um><div><us_a_um><adv>e<pos><u>livymorph.advinfl_us_a_um1</u>
+> benignius
+<u>livymorph.adj5</u><u>ls.n5195</u>benign<adj><us_a_um><div><us_a_um><adj>ius<neut><nom><sg><comp><u>adjinfl.us_a_um87</u>
+<u>livymorph.adj5</u><u>ls.n5195</u>benign<adj><us_a_um><div><us_a_um><adj>ius<neut><acc><sg><comp><u>adjinfl.us_a_um90</u>
+<u>livymorph.adj5</u><u>ls.n5195</u>benign<adj><us_a_um><div><us_a_um><adj>ius<neut><voc><sg><comp><u>adjinfl.us_a_um97</u>
+<u>livymorph.adj5</u><u>ls.n5195</u>benign<adj><us_a_um><div><us_a_um><adv>ius<pos><u>livymorph.advinfl_us_a_um2</u>
+> caede
+<u>livymorph.n112</u><u>ls.n6010</u>caed<noun><fem><i_es_is><div><i_es_is><noun>e<fem><abl><sg><u>livymorph.i_es_is17</u>
+> capere
+<u>livymorph.verb48</u><u>ls.n6614</u><#>cap<verb><c3iopres><div><c3iopres><verb>ere<2nd><sg><pres><indic><pass><u>livymorph.ereio_c3ioprespres8b</u>
+<u>livymorph.verb48</u><u>ls.n6614</u><#>cap<verb><c3iopres><div><c3iopres><infin>ere<pres><act><u>livymorph.ereio_inf4</u>
+> caperent
+<u>livymorph.verb48</u><u>ls.n6614</u><#>cap<verb><c3iopres><div><c3iopres><verb>erent<3rd><pl><impft><subj><act><u>livymorph.ereio_conj3ioimpft18</u>
+<u>livymorph.verb48</u><u>ls.n6614</u><#>cap<verb><c3iopres><div><c3iopres><verb>erent<3rd><pl><impft><subj><act><u>livymorph.ereio_c3iopresimpft18</u>
+> capita
+<u>livymorph.n111</u><u>ls.n6724</u>cap<noun><neut><ut_itis><div><ut_itis><noun>ita<neut><nom><pl><u>livymorph.ut_itis6</u>
+<u>livymorph.n111</u><u>ls.n6724</u>cap<noun><neut><ut_itis><div><ut_itis><noun>ita<neut><acc><pl><u>livymorph.ut_itis9</u>
+<u>livymorph.n111</u><u>ls.n6724</u>cap<noun><neut><ut_itis><div><ut_itis><noun>ita<neut><voc><pl><u>livymorph.ut_itis12</u>
+> capitolino
+no result for capitolino
+> capitolio
+no result for capitolio
+> capta
+<u>livymorph.verb21</u><u>ls.n14599</u><#>capt<verb><pftpass><div><pftpass><ptcpl>a<fem><nom><sg><pft><pass><u>livymorph.pft_perfppl13</u>
+<u>livymorph.verb21</u><u>ls.n14599</u><#>capt<verb><pftpass><div><pftpass><ptcpl>a<fem><abl><sg><pft><pass><u>livymorph.pft_perfppl17</u>
+<u>livymorph.verb21</u><u>ls.n14599</u><#>capt<verb><pftpass><div><pftpass><ptcpl>a<fem><voc><sg><pft><pass><u>livymorph.pft_perfppl18</u>
+<u>livymorph.verb21</u><u>ls.n14599</u><#>capt<verb><pftpass><div><pftpass><ptcpl>a<neut><nom><pl><pft><pass><u>livymorph.pft_perfppl31</u>
+<u>livymorph.verb21</u><u>ls.n14599</u><#>capt<verb><pftpass><div><pftpass><ptcpl>a<neut><acc><pl><pft><pass><u>livymorph.pft_perfppl34</u>
+<u>livymorph.verb21</u><u>ls.n14599</u><#>capt<verb><pftpass><div><pftpass><ptcpl>a<neut><voc><pl><pft><pass><u>livymorph.pft_perfppl36</u>
+> captum
+<u>livymorph.verb48</u><u>ls.n6614</u><#>cap<verb><c3iopres><div><c3iopres><supine>tum<acc><u>livymorph.c3iopressup1</u>
+<u>livymorph.verb21</u><u>ls.n14599</u><#>capt<verb><pftpass><div><pftpass><ptcpl>um<masc><acc><sg><pft><pass><u>livymorph.pft_perfppl4</u>
+<u>livymorph.verb21</u><u>ls.n14599</u><#>capt<verb><pftpass><div><pftpass><ptcpl>um<neut><nom><sg><pft><pass><u>livymorph.pft_perfppl25</u>
+<u>livymorph.verb21</u><u>ls.n14599</u><#>capt<verb><pftpass><div><pftpass><ptcpl>um<neut><voc><sg><pft><pass><u>livymorph.pft_perfppl30</u>
+> carior
+<u>livymorph.adj6</u><u>ls.n6903</u>car<adj><us_a_um><div><us_a_um><adj>ior<masc><nom><sg><comp><u>adjinfl.us_a_um13</u>
+<u>livymorph.adj6</u><u>ls.n6903</u>car<adj><us_a_um><div><us_a_um><adj>ior<masc><voc><sg><comp><u>adjinfl.us_a_um23</u>
+<u>livymorph.adj6</u><u>ls.n6903</u>car<adj><us_a_um><div><us_a_um><adj>ior<fem><nom><sg><comp><u>adjinfl.us_a_um49</u>
+<u>livymorph.adj6</u><u>ls.n6903</u>car<adj><us_a_um><div><us_a_um><adj>ior<fem><voc><sg><comp><u>adjinfl.us_a_um60</u>
+> carnificem
+<u>livymorph.n113</u><u>ls.n6836</u>carnif<noun><masc><ex_icis><div><ex_icis><noun>icem<masc><acc><sg><u>livymorph.ex_icis4</u>
+> carus
+<u>livymorph.adj6</u><u>ls.n6903</u>car<adj><us_a_um><div><us_a_um><adj>us<masc><nom><sg><pos><u>adjinfl.us_a_um1</u>
+> cassio
+no result for cassio
+> cassius
+no result for cassius
+> castris
+<u>livymorph.n114</u><u>ls.n7012</u>castr<noun><neut><us_i><div><us_i><noun>is<neut><dat><pl><u>livymorph.us_i20</u>
+<u>livymorph.n114</u><u>ls.n7012</u>castr<noun><neut><us_i><div><us_i><noun>is<neut><abl><pl><u>livymorph.us_i22</u>
+> causa
+<u>livymorph.n27</u><u>ls.n7197</u>caus<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>livymorph.a_ae1</u>
+<u>livymorph.n27</u><u>ls.n7197</u>caus<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>livymorph.a_ae5</u>
+<u>livymorph.n27</u><u>ls.n7197</u>caus<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>livymorph.a_ae11</u>
+> cautum
+<u>livymorph.verb53</u><u>ls.n7230</u><#>caut<verb><pftpass><div><pftpass><ptcpl>um<masc><acc><sg><pft><pass><u>livymorph.pft_perfppl4</u>
+<u>livymorph.verb53</u><u>ls.n7230</u><#>caut<verb><pftpass><div><pftpass><ptcpl>um<neut><nom><sg><pft><pass><u>livymorph.pft_perfppl25</u>
+<u>livymorph.verb53</u><u>ls.n7230</u><#>caut<verb><pftpass><div><pftpass><ptcpl>um<neut><voc><sg><pft><pass><u>livymorph.pft_perfppl30</u>
+> cedentium
+<u>livymorph.verb54</u><u>ls.n7275</u><#>ced<verb><c3pres><div><c3pres><ptcpl>entium<masc><gen><pl><pres><act><u>livymorph.ere3_conj3presapl44</u>
+<u>livymorph.verb54</u><u>ls.n7275</u><#>ced<verb><c3pres><div><c3pres><ptcpl>entium<fem><gen><pl><pres><act><u>livymorph.ere3_conj3presapl56</u>
+<u>livymorph.verb54</u><u>ls.n7275</u><#>ced<verb><c3pres><div><c3pres><ptcpl>entium<neut><gen><pl><pres><act><u>livymorph.ere3_conj3presapl68</u>
+> cedere
+<u>livymorph.verb54</u><u>ls.n7275</u><#>ced<verb><c3pres><div><c3pres><verb>ere<2nd><sg><pres><indic><pass><u>livymorph.ere3_c3prespres8b</u>
+<u>livymorph.verb54</u><u>ls.n7275</u><#>ced<verb><c3pres><div><c3pres><verb>ere<2nd><sg><fut><indic><pass><u>livymorph.ere3_c3presfut8b</u>
+<u>livymorph.verb54</u><u>ls.n7275</u><#>ced<verb><c3pres><div><c3pres><infin>ere<pres><act><u>livymorph.ere3_inf4</u>
+> censendi
+<u>livymorph.verb57</u><u>ls.n7375</u><#>cens<verb><c2pres><div><c2pres><gerund>endi<gen><u>livymorph.grd_c2pres_1</u>
+> censores
+<u>livymorph.n115</u><u>ls.n7381</u>censor<noun><masc><0_is><div><0_is><noun>es<masc><nom><pl><u>livymorph.0_is6</u>
+<u>livymorph.n115</u><u>ls.n7381</u>censor<noun><masc><0_is><div><0_is><noun>es<masc><acc><pl><u>livymorph.0_is9</u>
+<u>livymorph.n115</u><u>ls.n7381</u>censor<noun><masc><0_is><div><0_is><noun>es<masc><voc><pl><u>livymorph.0_is12</u>
+> censui
+<u>livymorph.n116</u><u>ls.n7388</u>cens<noun><masc><us_us><div><us_us><noun>ui<masc><dat><sg><u>livymorph.us_us3</u>
+<u>livymorph.verb58</u><u>ls.n7375</u><#>censu<verb><pftact><div><pftact><verb>i<1st><sg><pft><indic><act><u>livymorph.pftact_pft1</u>
+> censurae
+<u>livymorph.n117</u><u>ls.n7386</u>censur<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>livymorph.a_ae6</u>
+<u>livymorph.n117</u><u>ls.n7386</u>censur<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>livymorph.a_ae2</u>
+<u>livymorph.n117</u><u>ls.n7386</u>censur<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>livymorph.a_ae3</u>
+<u>livymorph.n117</u><u>ls.n7386</u>censur<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>livymorph.a_ae12</u>
+<u>livymorph.verb59</u><u>ls.n7375</u><#>cens<verb><pftpass><div><pftpass><ptcpl>urae<fem><nom><pl><fut><act><u>livymorph.fut_futppl19</u>
+<u>livymorph.verb59</u><u>ls.n7375</u><#>cens<verb><pftpass><div><pftpass><ptcpl>urae<fem><gen><sg><fut><act><u>livymorph.fut_futppl14</u>
+<u>livymorph.verb59</u><u>ls.n7375</u><#>cens<verb><pftpass><div><pftpass><ptcpl>urae<fem><dat><sg><fut><act><u>livymorph.fut_futppl15</u>
+<u>livymorph.verb59</u><u>ls.n7375</u><#>cens<verb><pftpass><div><pftpass><ptcpl>urae<fem><voc><pl><fut><act><u>livymorph.fut_futppl24</u>
+> census
+<u>livymorph.n116</u><u>ls.n7388</u>cens<noun><masc><us_us><div><us_us><noun>us<masc><nom><sg><u>livymorph.us_us1</u>
+<u>livymorph.n116</u><u>ls.n7388</u>cens<noun><masc><us_us><div><us_us><noun>us<masc><nom><pl><u>livymorph.us_us6</u>
+<u>livymorph.n116</u><u>ls.n7388</u>cens<noun><masc><us_us><div><us_us><noun>us<masc><acc><pl><u>livymorph.us_us9</u>
+<u>livymorph.n116</u><u>ls.n7388</u>cens<noun><masc><us_us><div><us_us><noun>us<masc><gen><sg><u>livymorph.us_us2</u>
+<u>livymorph.n116</u><u>ls.n7388</u>cens<noun><masc><us_us><div><us_us><noun>us<masc><voc><sg><u>livymorph.us_us11</u>
+<u>livymorph.n116</u><u>ls.n7388</u>cens<noun><masc><us_us><div><us_us><noun>us<masc><voc><pl><u>livymorph.us_us12</u>
+<u>livymorph.verb59</u><u>ls.n7375</u><#>cens<verb><pftpass><div><pftpass><ptcpl>us<masc><nom><sg><pft><pass><u>livymorph.pft_perfppl1</u>
+> centuriis
+<u>livymorph.n121</u><u>ls.n7441</u>centuri<noun><fem><a_ae><div><a_ae><noun>is<fem><dat><pl><u>livymorph.a_ae8</u>
+<u>livymorph.n121</u><u>ls.n7441</u>centuri<noun><fem><a_ae><div><a_ae><noun>is<fem><abl><pl><u>livymorph.a_ae10</u>
+> cepit
+<u>livymorph.verb49</u><u>ls.n6614</u><#>cep<verb><pftact><div><pftact><verb>it<3rd><sg><pft><indic><act><u>livymorph.pftact_pft3</u>
+> certo
+<u>livymorph.adj7</u><u>ls.n7592</u>cert<adj><us_a_um><div><us_a_um><adj>o<masc><dat><sg><pos><u>adjinfl.us_a_um3</u>
+<u>livymorph.adj7</u><u>ls.n7592</u>cert<adj><us_a_um><div><us_a_um><adj>o<masc><abl><sg><pos><u>adjinfl.us_a_um5</u>
+<u>livymorph.adj7</u><u>ls.n7592</u>cert<adj><us_a_um><div><us_a_um><adj>o<neut><dat><sg><pos><u>adjinfl.us_a_um77</u>
+<u>livymorph.adj7</u><u>ls.n7592</u>cert<adj><us_a_um><div><us_a_um><adj>o<neut><abl><sg><pos><u>adjinfl.us_a_um79</u>
+> cessisset
+<u>livymorph.verb55</u><u>ls.n7275</u><#>cess<verb><pftact><div><pftact><verb>isset<3rd><sg><plupft><subj><act><u>livymorph.pftact_plupft9</u>
+> cibo
+no result for cibo
+> circumaravit
+no result for circumaravit
+> circumferens
+no result for circumferens
+> circumspectant
+no result for circumspectant
+> citatos
+<u>livymorph.verb64</u><u>ls.n8443</u><#>cit<verb><conj1><div><conj1><ptcpl>atos<masc><acc><pl><pft><pass><u>livymorph.are_conj1perfppl10</u>
+> civem
+<u>livymorph.n26</u><u>ls.n8464</u>civ<noun><fem><is_is><div><is_is><noun>em<fem><acc><sg><u>livymorph.is_is16</u>
+<u>livymorph.n25</u><u>ls.n8464</u>civ<noun><masc><is_is><div><is_is><noun>em<masc><acc><sg><u>livymorph.is_is4</u>
+> civibus
+<u>livymorph.n26</u><u>ls.n8464</u>civ<noun><fem><is_is><div><is_is><noun>ibus<fem><dat><pl><u>livymorph.is_is20</u>
+<u>livymorph.n26</u><u>ls.n8464</u>civ<noun><fem><is_is><div><is_is><noun>ibus<fem><abl><pl><u>livymorph.is_is22</u>
+<u>livymorph.n25</u><u>ls.n8464</u>civ<noun><masc><is_is><div><is_is><noun>ibus<masc><dat><pl><u>livymorph.is_is8</u>
+<u>livymorph.n25</u><u>ls.n8464</u>civ<noun><masc><is_is><div><is_is><noun>ibus<masc><abl><pl><u>livymorph.is_is10</u>
+> civitas
+<u>livymorph.n23</u><u>ls.n8465</u>civi<noun><fem><tas_tatis><div><tas_tatis><noun>tas<fem><nom><sg><u>livymorph.tas_tatis1</u>
+<u>livymorph.n23</u><u>ls.n8465</u>civi<noun><fem><tas_tatis><div><tas_tatis><noun>tas<fem><voc><sg><u>livymorph.tas_tatis11</u>
+> civitatis
+<u>livymorph.n23</u><u>ls.n8465</u>civi<noun><fem><tas_tatis><div><tas_tatis><noun>tatis<fem><acc><pl><u>livymorph.tas_tatis9b</u>
+<u>livymorph.n23</u><u>ls.n8465</u>civi<noun><fem><tas_tatis><div><tas_tatis><noun>tatis<fem><gen><sg><u>livymorph.tas_tatis2</u>
+> civium
+<u>livymorph.n26</u><u>ls.n8464</u>civ<noun><fem><is_is><div><is_is><noun>ium<fem><gen><pl><u>livymorph.is_is19</u>
+<u>livymorph.n25</u><u>ls.n8464</u>civ<noun><masc><is_is><div><is_is><noun>ium<masc><gen><pl><u>livymorph.is_is7</u>
+> cladibus
+<u>livymorph.n122</u><u>ls.n8469</u>clad<noun><fem><i_es_is><div><i_es_is><noun>ibus<fem><dat><pl><u>livymorph.i_es_is20</u>
+<u>livymorph.n122</u><u>ls.n8469</u>clad<noun><fem><i_es_is><div><i_es_is><noun>ibus<fem><abl><pl><u>livymorph.i_es_is22</u>
+> clamor
+<u>livymorph.n22</u><u>ls.n8479</u>clamor<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>livymorph.0_is1</u>
+<u>livymorph.n22</u><u>ls.n8479</u>clamor<noun><masc><0_is><div><0_is><noun><masc><voc><sg><u>livymorph.0_is11</u>
+> clamore
+<u>livymorph.n22</u><u>ls.n8479</u>clamor<noun><masc><0_is><div><0_is><noun>e<masc><abl><sg><u>livymorph.0_is5</u>
+> claros
+<u>livymorph.adj8</u><u>ls.n8513</u>clar<adj><us_a_um><div><us_a_um><adj>os<masc><acc><pl><pos><u>adjinfl.us_a_um9</u>
+> clausos
+<u>livymorph.verb67</u><u>ls.n8535</u><#>claus<verb><pftpass><div><pftpass><ptcpl>os<masc><acc><pl><pft><pass><u>livymorph.pft_perfppl10</u>
+> clientibus
+<u>livymorph.n123</u><u>ls.n8598</u>clien<noun><fem><s_tis><div><s_tis><noun>tibus<fem><dat><pl><u>livymorph.s_tis20</u>
+<u>livymorph.n123</u><u>ls.n8598</u>clien<noun><fem><s_tis><div><s_tis><noun>tibus<fem><abl><pl><u>livymorph.s_tis22</u>
+> cocles
+no result for cocles
+> coegit
+<u>livymorph.verb69</u><u>ls.n8939</u><#>coeg<verb><pftact><div><pftact><verb>it<3rd><sg><pft><indic><act><u>livymorph.pftact_pft3</u>
+> coeptum
+<u>livymorph.verb71</u><u>ls.n8883</u><#>coep<verb><conj3io><div><conj3io><supine>tum<acc><u>livymorph.conj3iosup1</u>
+<u>livymorph.verb71</u><u>ls.n8883</u><#>coep<verb><conj3io><div><conj3io><ptcpl>tum<masc><acc><sg><pft><pass><u>livymorph.ere_conj3ioperfppl4</u>
+<u>livymorph.verb71</u><u>ls.n8883</u><#>coep<verb><conj3io><div><conj3io><ptcpl>tum<neut><nom><sg><pft><pass><u>livymorph.ere_conj3ioperfppl25</u>
+<u>livymorph.verb71</u><u>ls.n8883</u><#>coep<verb><conj3io><div><conj3io><ptcpl>tum<neut><acc><sg><pft><pass><u>livymorph.ere_conj3ioperfppl28</u>
+<u>livymorph.verb71</u><u>ls.n8883</u><#>coep<verb><conj3io><div><conj3io><ptcpl>tum<neut><voc><sg><pft><pass><u>livymorph.ere_conj3ioperfppl30</u>
+> coetu
+<u>livymorph.n124</u><u>ls.n8979</u>coet<noun><masc><us_us><div><us_us><noun>u<masc><dat><sg><u>livymorph.us_us3b</u>
+<u>livymorph.n124</u><u>ls.n8979</u>coet<noun><masc><us_us><div><us_us><noun>u<masc><abl><sg><u>livymorph.us_us5</u>
+> cognomen
+<u>livymorph.n125</u><u>ls.n8930</u>cognom<noun><neut><en_inis><div><en_inis><noun>en<neut><nom><sg><u>livymorph.en_inis1</u>
+<u>livymorph.n125</u><u>ls.n8930</u>cognom<noun><neut><en_inis><div><en_inis><noun>en<neut><acc><sg><u>livymorph.en_inis4</u>
+<u>livymorph.n125</u><u>ls.n8930</u>cognom<noun><neut><en_inis><div><en_inis><noun>en<neut><voc><sg><u>livymorph.en_inis11</u>
+> coitionibus
+<u>livymorph.n126</u><u>ls.n8977</u>coiti<noun><fem><o_onis><div><o_onis><noun>onibus<fem><dat><pl><u>livymorph.o_onis8</u>
+<u>livymorph.n126</u><u>ls.n8977</u>coiti<noun><fem><o_onis><div><o_onis><noun>onibus<fem><abl><pl><u>livymorph.o_onis10</u>
+> colebant
+<u>livymorph.verb72</u><u>ls.n9134</u><#>col<verb><c3pres><div><c3pres><verb>ebant<3rd><pl><impft><indic><act><u>livymorph.ere3_c3presimpft6</u>
+> collega
+<u>livymorph.n127</u><u>ls.n9049</u>colleg<noun><masc><a_ae><div><a_ae><noun>a<masc><nom><sg><u>livymorph.a_ae1</u>
+<u>livymorph.n127</u><u>ls.n9049</u>colleg<noun><masc><a_ae><div><a_ae><noun>a<masc><abl><sg><u>livymorph.a_ae5</u>
+<u>livymorph.n127</u><u>ls.n9049</u>colleg<noun><masc><a_ae><div><a_ae><noun>a<masc><voc><sg><u>livymorph.a_ae11</u>
+> collegas
+<u>livymorph.n127</u><u>ls.n9049</u>colleg<noun><masc><a_ae><div><a_ae><noun>as<masc><acc><pl><u>livymorph.a_ae9</u>
+> columna
+<u>livymorph.n128</u><u>ls.n9199</u>column<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>livymorph.a_ae1</u>
+<u>livymorph.n128</u><u>ls.n9199</u>column<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>livymorph.a_ae5</u>
+<u>livymorph.n128</u><u>ls.n9199</u>column<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>livymorph.a_ae11</u>
+> cominium
+no result for cominium
+> cominius
+no result for cominius
+> comitio
+no result for comitio
+> comminus
+<u>livymorph.irradv41</u><u>ls.n9382</u>comminus<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> commissum
+no result for commissum
+> committerentur
+no result for committerentur
+> commovit
+no result for commovit
+> compositum
+no result for compositum
+> conabantur
+<u>livymorph.verb75</u><u>ls.n10379</u><#>con<verb><conj1><div><conj1><verb>abantur<3rd><pl><impft><indic><pass><u>livymorph.are_conj1impft12</u>
+> concessum
+<u>livymorph.comp9_8</u><u>ls.n9766</u><#>concess<verb><pftpass><div><pftpass><ptcpl>um<masc><acc><sg><pft><pass><u>livymorph.pft_perfppl4</u>
+<u>livymorph.comp9_8</u><u>ls.n9766</u><#>concess<verb><pftpass><div><pftpass><ptcpl>um<neut><nom><sg><pft><pass><u>livymorph.pft_perfppl25</u>
+<u>livymorph.comp9_8</u><u>ls.n9766</u><#>concess<verb><pftpass><div><pftpass><ptcpl>um<neut><voc><sg><pft><pass><u>livymorph.pft_perfppl30</u>
+> conciliis
+<u>livymorph.n129</u><u>ls.n9823</u>concili<noun><neut><us_i><div><us_i><noun>is<neut><dat><pl><u>livymorph.us_i20</u>
+<u>livymorph.n129</u><u>ls.n9823</u>concili<noun><neut><us_i><div><us_i><noun>is<neut><abl><pl><u>livymorph.us_i22</u>
+> concordia
+<u>livymorph.n28</u><u>ls.n9892</u>concordi<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>livymorph.a_ae1</u>
+<u>livymorph.n28</u><u>ls.n9892</u>concordi<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>livymorph.a_ae5</u>
+<u>livymorph.n28</u><u>ls.n9892</u>concordi<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>livymorph.a_ae11</u>
+> concordiae
+<u>livymorph.n28</u><u>ls.n9892</u>concordi<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>livymorph.a_ae6</u>
+<u>livymorph.n28</u><u>ls.n9892</u>concordi<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>livymorph.a_ae2</u>
+<u>livymorph.n28</u><u>ls.n9892</u>concordi<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>livymorph.a_ae3</u>
+<u>livymorph.n28</u><u>ls.n9892</u>concordi<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>livymorph.a_ae12</u>
+> condiciones
+<u>livymorph.n130</u><u>ls.n9996</u>condici<noun><fem><o_onis><div><o_onis><noun>ones<fem><nom><pl><u>livymorph.o_onis6</u>
+<u>livymorph.n130</u><u>ls.n9996</u>condici<noun><fem><o_onis><div><o_onis><noun>ones<fem><acc><pl><u>livymorph.o_onis9</u>
+<u>livymorph.n130</u><u>ls.n9996</u>condici<noun><fem><o_onis><div><o_onis><noun>ones<fem><voc><pl><u>livymorph.o_onis12</u>
+> conferunt
+no result for conferunt
+> coniciunt
+<u>livymorph.comp12_11</u><u>ls.n10309</u><#>conic<verb><c3iopres><div><c3iopres><verb>iunt<3rd><pl><pres><indic><act><u>livymorph.ereio_c3ioprespres6</u>
+> conlatis
+<u>livymorph.comp10_9</u><u>ls.n10088</u><#>conlat<verb><pftpass><div><pftpass><ptcpl>is<masc><dat><pl><pft><pass><u>livymorph.pft_perfppl9</u>
+<u>livymorph.comp10_9</u><u>ls.n10088</u><#>conlat<verb><pftpass><div><pftpass><ptcpl>is<masc><abl><pl><pft><pass><u>livymorph.pft_perfppl11</u>
+<u>livymorph.comp10_9</u><u>ls.n10088</u><#>conlat<verb><pftpass><div><pftpass><ptcpl>is<fem><dat><pl><pft><pass><u>livymorph.pft_perfppl21</u>
+<u>livymorph.comp10_9</u><u>ls.n10088</u><#>conlat<verb><pftpass><div><pftpass><ptcpl>is<fem><abl><pl><pft><pass><u>livymorph.pft_perfppl23</u>
+<u>livymorph.comp10_9</u><u>ls.n10088</u><#>conlat<verb><pftpass><div><pftpass><ptcpl>is<neut><dat><pl><pft><pass><u>livymorph.pft_perfppl33</u>
+<u>livymorph.comp10_9</u><u>ls.n10088</u><#>conlat<verb><pftpass><div><pftpass><ptcpl>is<neut><abl><pl><pft><pass><u>livymorph.pft_perfppl35</u>
+> conpulsos
+<u>livymorph.comp11_10</u><u>ls.n9557</u><#>conpuls<verb><pftpass><div><pftpass><ptcpl>os<masc><acc><pl><pft><pass><u>livymorph.pft_perfppl10</u>
+> consceleratos
+<u>livymorph.verb82</u><u>ls.n42910</u><#>consceler<verb><conj1><div><conj1><ptcpl>atos<masc><acc><pl><pft><pass><u>livymorph.are_conj1perfppl10</u>
+> consilia
+<u>livymorph.n29</u><u>ls.n10519</u>consili<noun><neut><us_i><div><us_i><noun>a<neut><nom><pl><u>livymorph.us_i18</u>
+<u>livymorph.n29</u><u>ls.n10519</u>consili<noun><neut><us_i><div><us_i><noun>a<neut><acc><pl><u>livymorph.us_i21</u>
+<u>livymorph.n29</u><u>ls.n10519</u>consili<noun><neut><us_i><div><us_i><noun>a<neut><voc><pl><u>livymorph.us_i24</u>
+> consilio
+<u>livymorph.n29</u><u>ls.n10519</u>consili<noun><neut><us_i><div><us_i><noun>o<neut><dat><sg><u>livymorph.us_i15</u>
+<u>livymorph.n29</u><u>ls.n10519</u>consili<noun><neut><us_i><div><us_i><noun>o<neut><abl><sg><u>livymorph.us_i17</u>
+> conspecta
+<u>livymorph.comp14_13</u><u>ls.n10586</u><#>conspect<verb><pftpass><div><pftpass><ptcpl>a<fem><nom><sg><pft><pass><u>livymorph.pft_perfppl13</u>
+<u>livymorph.comp14_13</u><u>ls.n10586</u><#>conspect<verb><pftpass><div><pftpass><ptcpl>a<fem><abl><sg><pft><pass><u>livymorph.pft_perfppl17</u>
+<u>livymorph.comp14_13</u><u>ls.n10586</u><#>conspect<verb><pftpass><div><pftpass><ptcpl>a<fem><voc><sg><pft><pass><u>livymorph.pft_perfppl18</u>
+<u>livymorph.comp14_13</u><u>ls.n10586</u><#>conspect<verb><pftpass><div><pftpass><ptcpl>a<neut><nom><pl><pft><pass><u>livymorph.pft_perfppl31</u>
+<u>livymorph.comp14_13</u><u>ls.n10586</u><#>conspect<verb><pftpass><div><pftpass><ptcpl>a<neut><acc><pl><pft><pass><u>livymorph.pft_perfppl34</u>
+<u>livymorph.comp14_13</u><u>ls.n10586</u><#>conspect<verb><pftpass><div><pftpass><ptcpl>a<neut><voc><pl><pft><pass><u>livymorph.pft_perfppl36</u>
+> constat
+<u>livymorph.comp15_14</u><u>ls.n10640</u><#>const<verb><c1pres><div><c1pres><verb>at<3rd><sg><pres><indic><act><u>livymorph.are_c1prespres3</u>
+> consul
+<u>livymorph.n19</u><u>ls.n10676</u>consul<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>livymorph.0_is1</u>
+<u>livymorph.n19</u><u>ls.n10676</u>consul<noun><masc><0_is><div><0_is><noun><masc><voc><sg><u>livymorph.0_is11</u>
+> consularem
+<u>livymorph.n131</u><u>ls.n10677</u>consular<noun><masc><i_is_is><div><i_is_is><noun>em<masc><acc><sg><u>livymorph.i_is_is4</u>
+> consulatu
+<u>livymorph.n132</u><u>ls.n10681</u>consulat<noun><masc><us_us><div><us_us><noun>u<masc><dat><sg><u>livymorph.us_us3b</u>
+<u>livymorph.n132</u><u>ls.n10681</u>consulat<noun><masc><us_us><div><us_us><noun>u<masc><abl><sg><u>livymorph.us_us5</u>
+> consulatum
+<u>livymorph.n132</u><u>ls.n10681</u>consulat<noun><masc><us_us><div><us_us><noun>um<masc><acc><sg><u>livymorph.us_us4</u>
+> consule
+<u>livymorph.n19</u><u>ls.n10676</u>consul<noun><masc><0_is><div><0_is><noun>e<masc><abl><sg><u>livymorph.0_is5</u>
+> consules
+<u>livymorph.n19</u><u>ls.n10676</u>consul<noun><masc><0_is><div><0_is><noun>es<masc><nom><pl><u>livymorph.0_is6</u>
+<u>livymorph.n19</u><u>ls.n10676</u>consul<noun><masc><0_is><div><0_is><noun>es<masc><acc><pl><u>livymorph.0_is9</u>
+<u>livymorph.n19</u><u>ls.n10676</u>consul<noun><masc><0_is><div><0_is><noun>es<masc><voc><pl><u>livymorph.0_is12</u>
+> consulibus
+<u>livymorph.n19</u><u>ls.n10676</u>consul<noun><masc><0_is><div><0_is><noun>ibus<masc><dat><pl><u>livymorph.0_is8</u>
+<u>livymorph.n19</u><u>ls.n10676</u>consul<noun><masc><0_is><div><0_is><noun>ibus<masc><abl><pl><u>livymorph.0_is10</u>
+> consulis
+<u>livymorph.n19</u><u>ls.n10676</u>consul<noun><masc><0_is><div><0_is><noun>is<masc><gen><sg><u>livymorph.0_is2</u>
+> consulto
+<u>livymorph.n133</u><u>ls.n10692</u>consult<noun><neut><us_i><div><us_i><noun>o<neut><dat><sg><u>livymorph.us_i15</u>
+<u>livymorph.n133</u><u>ls.n10692</u>consult<noun><neut><us_i><div><us_i><noun>o<neut><abl><sg><u>livymorph.us_i17</u>
+> contagione
+<u>livymorph.n134</u><u>ls.n10724</u>contagi<noun><fem><o_onis><div><o_onis><noun>one<fem><abl><sg><u>livymorph.o_onis5</u>
+> contaminatos
+no result for contaminatos
+> contemptim
+<u>livymorph.irradv26</u><u>ls.n10764</u>contemptim<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> contulit
+<u>livymorph.comp10_9</u><u>ls.n10088</u><#>contul<verb><pftact><div><pftact><verb>it<3rd><sg><pft><indic><act><u>livymorph.pftact_pft3</u>
+> convenit
+<u>livymorph.verb90</u><u>ls.n10977</u><#>conven<verb><pftact><div><pftact><verb>it<3rd><sg><pft><indic><act><u>livymorph.pftact_pft3</u>
+<u>livymorph.verb89</u><u>ls.n10977</u><#>conven<verb><c3iopres><div><c3iopres><verb>it<3rd><sg><pres><indic><act><u>livymorph.ereio_c3ioprespres3</u>
+> coorta
+no result for coorta
+> copiis
+<u>livymorph.n135</u><u>ls.n11079</u>copi<noun><fem><a_ae><div><a_ae><noun>is<fem><dat><pl><u>livymorph.a_ae8</u>
+<u>livymorph.n135</u><u>ls.n11079</u>copi<noun><fem><a_ae><div><a_ae><noun>is<fem><abl><pl><u>livymorph.a_ae10</u>
+> coriolano
+no result for coriolano
+> corioli
+no result for corioli
+> coriolos
+no result for coriolos
+> corpore
+<u>livymorph.n32</u><u>ls.n11268</u>corp<noun><neut><us_oris><div><us_oris><noun>ore<neut><abl><sg><u>livymorph.us_oris5</u>
+> creati
+<u>livymorph.verb92</u><u>ls.n11543</u><#>cre<verb><conj1><div><conj1><ptcpl>ati<masc><nom><pl><pft><pass><u>livymorph.are_conj1perfppl7</u>
+<u>livymorph.verb92</u><u>ls.n11543</u><#>cre<verb><conj1><div><conj1><ptcpl>ati<masc><gen><sg><pft><pass><u>livymorph.are_conj1perfppl2</u>
+<u>livymorph.verb92</u><u>ls.n11543</u><#>cre<verb><conj1><div><conj1><ptcpl>ati<masc><voc><pl><pft><pass><u>livymorph.are_conj1perfppl12</u>
+<u>livymorph.verb92</u><u>ls.n11543</u><#>cre<verb><conj1><div><conj1><ptcpl>ati<neut><gen><sg><pft><pass><u>livymorph.are_conj1perfppl26</u>
+> creatos
+<u>livymorph.verb92</u><u>ls.n11543</u><#>cre<verb><conj1><div><conj1><ptcpl>atos<masc><acc><pl><pft><pass><u>livymorph.are_conj1perfppl10</u>
+> creaverunt
+<u>livymorph.verb92</u><u>ls.n11543</u><#>cre<verb><conj1><div><conj1><verb>averunt<3rd><pl><pft><indic><act><u>livymorph.are_pft6</u>
+> crebrae
+<u>livymorph.adj9</u><u>ls.n11509</u>creb<adj><er_ra_rum><div><er_ra_rum><adj>rae<fem><nom><pl><pos><u>livymorph.er_ra_rum42</u>
+<u>livymorph.adj9</u><u>ls.n11509</u>creb<adj><er_ra_rum><div><er_ra_rum><adj>rae<fem><gen><sg><pos><u>livymorph.er_ra_rum38</u>
+<u>livymorph.adj9</u><u>ls.n11509</u>creb<adj><er_ra_rum><div><er_ra_rum><adj>rae<fem><dat><sg><pos><u>livymorph.er_ra_rum39</u>
+<u>livymorph.adj9</u><u>ls.n11509</u>creb<adj><er_ra_rum><div><er_ra_rum><adj>rae<fem><voc><pl><pos><u>livymorph.er_ra_rum48</u>
+> credebant
+<u>livymorph.verb93</u><u>ls.n11525</u><#>cred<verb><conj3><div><conj3><verb>ebant<3rd><pl><impft><indic><act><u>livymorph.ere3_conj3impft6</u>
+> credo
+<u>livymorph.verb93</u><u>ls.n11525</u><#>cred<verb><conj3><div><conj3><verb>o<1st><sg><pres><indic><act><u>livymorph.ere3_conj3pres1</u>
+> criminatum
+<u>livymorph.verb94</u><u>ls.n11607</u><#>crimin<verb><conj1><div><conj1><supine>atum<acc><u>livymorph.conj1sup1</u>
+<u>livymorph.verb94</u><u>ls.n11607</u><#>crimin<verb><conj1><div><conj1><ptcpl>atum<masc><acc><sg><pft><pass><u>livymorph.are_conj1perfppl4</u>
+<u>livymorph.verb94</u><u>ls.n11607</u><#>crimin<verb><conj1><div><conj1><ptcpl>atum<neut><nom><sg><pft><pass><u>livymorph.are_conj1perfppl25</u>
+<u>livymorph.verb94</u><u>ls.n11607</u><#>crimin<verb><conj1><div><conj1><ptcpl>atum<neut><acc><sg><pft><pass><u>livymorph.are_conj1perfppl28</u>
+<u>livymorph.verb94</u><u>ls.n11607</u><#>crimin<verb><conj1><div><conj1><ptcpl>atum<neut><voc><sg><pft><pass><u>livymorph.are_conj1perfppl30</u>
+> cui
+<u>livymorph.irrpquis3</u><u>ls.n40242</u>cui<masc><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis23</u><u>ls.n40242</u>cui<neut><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis13</u><u>ls.n40242</u>cui<fem><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui3</u><u>ls.n40103</u>cui<masc><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui23</u><u>ls.n40103</u>cui<neut><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui13</u><u>ls.n40103</u>cui<fem><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> cuius
+<u>livymorph.irrpquis22</u><u>ls.n40242</u>cuius<neut><gen><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis2</u><u>ls.n40242</u>cuius<masc><gen><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis12</u><u>ls.n40242</u>cuius<fem><gen><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui22</u><u>ls.n40103</u>cuius<neut><gen><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui2</u><u>ls.n40103</u>cuius<masc><gen><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui12</u><u>ls.n40103</u>cuius<fem><gen><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> cum
+<u>livymorph.indecl12</u><u>ls.n11872</u>cum<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> cuncta
+<u>livymorph.verb95</u><u>ls.n11912</u><#>cunct<verb><conj1><div><conj1><verb>a<2nd><sg><pres><imptv><act><u>livymorph.are_conj1pres25</u>
+<u>livymorph.adj10</u><u>ls.n11914</u>cunct<adj><us_a_um><div><us_a_um><adj>a<fem><nom><sg><pos><u>adjinfl.us_a_um37</u>
+<u>livymorph.adj10</u><u>ls.n11914</u>cunct<adj><us_a_um><div><us_a_um><adj>a<fem><abl><sg><pos><u>adjinfl.us_a_um41</u>
+<u>livymorph.adj10</u><u>ls.n11914</u>cunct<adj><us_a_um><div><us_a_um><adj>a<fem><voc><sg><pos><u>adjinfl.us_a_um47</u>
+<u>livymorph.adj10</u><u>ls.n11914</u>cunct<adj><us_a_um><div><us_a_um><adj>a<neut><nom><pl><pos><u>adjinfl.us_a_um80</u>
+<u>livymorph.adj10</u><u>ls.n11914</u>cunct<adj><us_a_um><div><us_a_um><adj>a<neut><acc><pl><pos><u>adjinfl.us_a_um83</u>
+<u>livymorph.adj10</u><u>ls.n11914</u>cunct<adj><us_a_um><div><us_a_um><adj>a<neut><voc><pl><pos><u>adjinfl.us_a_um86</u>
+> cunctati
+<u>livymorph.verb95</u><u>ls.n11912</u><#>cunct<verb><conj1><div><conj1><ptcpl>ati<masc><nom><pl><pft><pass><u>livymorph.are_conj1perfppl7</u>
+<u>livymorph.verb95</u><u>ls.n11912</u><#>cunct<verb><conj1><div><conj1><ptcpl>ati<masc><gen><sg><pft><pass><u>livymorph.are_conj1perfppl2</u>
+<u>livymorph.verb95</u><u>ls.n11912</u><#>cunct<verb><conj1><div><conj1><ptcpl>ati<masc><voc><pl><pft><pass><u>livymorph.are_conj1perfppl12</u>
+<u>livymorph.verb95</u><u>ls.n11912</u><#>cunct<verb><conj1><div><conj1><ptcpl>ati<neut><gen><sg><pft><pass><u>livymorph.are_conj1perfppl26</u>
+> cura
+<u>livymorph.verb11</u><u>ls.n12025</u><#>cur<verb><conj1><div><conj1><verb>a<2nd><sg><pres><imptv><act><u>livymorph.are_conj1pres25</u>
+> curia
+<u>livymorph.n30</u><u>ls.n11999</u>curi<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>livymorph.a_ae1</u>
+<u>livymorph.n30</u><u>ls.n11999</u>curi<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>livymorph.a_ae5</u>
+<u>livymorph.n30</u><u>ls.n11999</u>curi<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>livymorph.a_ae11</u>
+> custodiae
+<u>livymorph.n61</u><u>ls.n12071</u>custodi<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>livymorph.a_ae6</u>
+<u>livymorph.n61</u><u>ls.n12071</u>custodi<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>livymorph.a_ae2</u>
+<u>livymorph.n61</u><u>ls.n12071</u>custodi<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>livymorph.a_ae3</u>
+<u>livymorph.n61</u><u>ls.n12071</u>custodi<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>livymorph.a_ae12</u>
+> damnatus
+<u>livymorph.verb96</u><u>ls.n11912</u><#>damn<verb><conj1><div><conj1><ptcpl>atus<masc><nom><sg><pft><pass><u>livymorph.are_conj1perfppl1</u>
+> datum
+<u>livymorph.verb20</u><u>ls.n14599</u><#>dat<verb><pftpass><div><pftpass><ptcpl>um<masc><acc><sg><pft><pass><u>livymorph.pft_perfppl4</u>
+<u>livymorph.verb20</u><u>ls.n14599</u><#>dat<verb><pftpass><div><pftpass><ptcpl>um<neut><nom><sg><pft><pass><u>livymorph.pft_perfppl25</u>
+<u>livymorph.verb20</u><u>ls.n14599</u><#>dat<verb><pftpass><div><pftpass><ptcpl>um<neut><voc><sg><pft><pass><u>livymorph.pft_perfppl30</u>
+<u>livymorph.verb105</u><u>ls.n14599</u><#>dat<verb><pftpass><div><pftpass><ptcpl>um<masc><acc><sg><pft><pass><u>livymorph.pft_perfppl4</u>
+<u>livymorph.verb105</u><u>ls.n14599</u><#>dat<verb><pftpass><div><pftpass><ptcpl>um<neut><nom><sg><pft><pass><u>livymorph.pft_perfppl25</u>
+<u>livymorph.verb105</u><u>ls.n14599</u><#>dat<verb><pftpass><div><pftpass><ptcpl>um<neut><voc><sg><pft><pass><u>livymorph.pft_perfppl30</u>
+<u>livymorph.verb103</u><u>ls.n14599</u><#>d<verb><c1pres><div><c1pres><supine>atum<acc><u>livymorph.c1pressup1</u>
+> de
+<u>livymorph.indecl11</u><u>ls.n12361</u>de<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> decoris
+<u>livymorph.n31</u><u>ls.n12595</u>dec<noun><neut><us_oris><div><us_oris><noun>oris<neut><gen><sg><u>livymorph.us_oris2</u>
+> decrevit
+<u>livymorph.comp16_15</u><u>ls.n12557</u><#>decrev<verb><pftact><div><pftact><verb>it<3rd><sg><pft><indic><act><u>livymorph.pftact_pft3</u>
+> decurrere
+<u>livymorph.comp17_16</u><u>ls.n12587</u><#>decurr<verb><c3pres><div><c3pres><verb>ere<2nd><sg><pres><indic><pass><u>livymorph.ere3_c3prespres8b</u>
+<u>livymorph.comp17_16</u><u>ls.n12587</u><#>decurr<verb><c3pres><div><c3pres><verb>ere<2nd><sg><fut><indic><pass><u>livymorph.ere3_c3presfut8b</u>
+<u>livymorph.comp17_16</u><u>ls.n12587</u><#>decurr<verb><c3pres><div><c3pres><infin>ere<pres><act><u>livymorph.ere3_inf4</u>
+> dedantur
+<u>livymorph.comp18_17</u><u>ls.n12628</u><#>ded<verb><c1pres><div><c1pres><verb>antur<3rd><pl><pres><indic><pass><u>livymorph.are_c1prespres12</u>
+> dedecoris
+<u>livymorph.n136</u><u>ls.n12615</u>dedec<noun><neut><us_oris><div><us_oris><noun>oris<neut><gen><sg><u>livymorph.us_oris2</u>
+> dederit
+<u>livymorph.verb20</u><u>ls.n14599</u><#>ded<verb><pftact><div><pftact><verb>erit<3rd><sg><futpft><indic><act><u>livymorph.pftact_futpft3</u>
+<u>livymorph.verb20</u><u>ls.n14599</u><#>ded<verb><pftact><div><pftact><verb>erit<3rd><sg><pft><subj><act><u>livymorph.pftact_pft9</u>
+<u>livymorph.verb104</u><u>ls.n14599</u><#>ded<verb><pftact><div><pftact><verb>erit<3rd><sg><futpft><indic><act><u>livymorph.pftact_futpft3</u>
+<u>livymorph.verb104</u><u>ls.n14599</u><#>ded<verb><pftact><div><pftact><verb>erit<3rd><sg><pft><subj><act><u>livymorph.pftact_pft9</u>
+> dedit
+<u>livymorph.verb20</u><u>ls.n14599</u><#>ded<verb><pftact><div><pftact><verb>it<3rd><sg><pft><indic><act><u>livymorph.pftact_pft3</u>
+<u>livymorph.verb104</u><u>ls.n14599</u><#>ded<verb><pftact><div><pftact><verb>it<3rd><sg><pft><indic><act><u>livymorph.pftact_pft3</u>
+> defuit
+no result for defuit
+> defungendum
+no result for defungendum
+> deinde
+<u>livymorph.irradv25</u><u>ls.n12812</u>deinde<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> delecta
+<u>livymorph.verb109</u><u>ls.n12919</u><#>delect<verb><pftpass><div><pftpass><ptcpl>a<fem><nom><sg><pft><pass><u>livymorph.pft_perfppl13</u>
+<u>livymorph.verb109</u><u>ls.n12919</u><#>delect<verb><pftpass><div><pftpass><ptcpl>a<fem><abl><sg><pft><pass><u>livymorph.pft_perfppl17</u>
+<u>livymorph.verb109</u><u>ls.n12919</u><#>delect<verb><pftpass><div><pftpass><ptcpl>a<fem><voc><sg><pft><pass><u>livymorph.pft_perfppl18</u>
+<u>livymorph.verb109</u><u>ls.n12919</u><#>delect<verb><pftpass><div><pftpass><ptcpl>a<neut><nom><pl><pft><pass><u>livymorph.pft_perfppl31</u>
+<u>livymorph.verb109</u><u>ls.n12919</u><#>delect<verb><pftpass><div><pftpass><ptcpl>a<neut><acc><pl><pft><pass><u>livymorph.pft_perfppl34</u>
+<u>livymorph.verb109</u><u>ls.n12919</u><#>delect<verb><pftpass><div><pftpass><ptcpl>a<neut><voc><pl><pft><pass><u>livymorph.pft_perfppl36</u>
+> demigrant
+<u>livymorph.comp20_19</u><u>ls.n13014</u><#>demigr<verb><conj1><div><conj1><verb>ant<3rd><pl><pres><indic><act><u>livymorph.are_conj1pres6</u>
+> deorum
+<u>livymorph.n62</u><u>ls.n13573</u>de<noun><masc><us_i><div><us_i><noun>orum<masc><gen><pl><u>livymorph.us_i7</u>
+> deserto
+<u>livymorph.verb113</u><u>ls.n13352</u><#>desert<verb><pftpass><div><pftpass><ptcpl>o<masc><dat><sg><pft><pass><u>livymorph.pft_perfppl3</u>
+<u>livymorph.verb113</u><u>ls.n13352</u><#>desert<verb><pftpass><div><pftpass><ptcpl>o<masc><abl><sg><pft><pass><u>livymorph.pft_perfppl5</u>
+<u>livymorph.verb113</u><u>ls.n13352</u><#>desert<verb><pftpass><div><pftpass><ptcpl>o<neut><abl><sg><pft><pass><u>livymorph.pft_perfppl29</u>
+> desiluit
+no result for desiluit
+> detrudere
+no result for detrudere
+> detulissent
+no result for detulissent
+> deum
+<u>livymorph.n62</u><u>ls.n13573</u>de<noun><masc><us_i><div><us_i><noun>um<masc><acc><sg><u>livymorph.us_i4</u>
+> dicant
+<u>livymorph.verb17</u><u>ls.n13804</u><#>dic<verb><conj3><div><conj3><verb>ant<3rd><pl><pres><subj><act><u>livymorph.ere3_conj3pres18</u>
+> dicenda
+no result for dicenda
+> dicione
+<u>livymorph.n154</u><u>ls.n13801</u>dici<noun><fem><o_onis><div><o_onis><noun>one<fem><abl><sg><u>livymorph.o_onis5</u>
+> dicit
+<u>livymorph.verb17</u><u>ls.n13804</u><#>dic<verb><conj3><div><conj3><verb>it<3rd><sg><pres><indic><act><u>livymorph.ere3_conj3pres3</u>
+<u>livymorph.verb17</u><u>ls.n13804</u><#>dic<verb><conj3><div><conj3><verb>it<3rd><sg><pft><indic><act><u>livymorph.ere3_pft3</u>
+> dicta
+<u>livymorph.verb17</u><u>ls.n13804</u><#>dic<verb><conj3><div><conj3><ptcpl>ta<fem><nom><sg><pft><pass><u>livymorph.ere_conj3perfppl13</u>
+<u>livymorph.verb17</u><u>ls.n13804</u><#>dic<verb><conj3><div><conj3><ptcpl>ta<fem><abl><sg><pft><pass><u>livymorph.ere_conj3perfppl17</u>
+<u>livymorph.verb17</u><u>ls.n13804</u><#>dic<verb><conj3><div><conj3><ptcpl>ta<fem><voc><sg><pft><pass><u>livymorph.ere_conj3perfppl18</u>
+<u>livymorph.verb17</u><u>ls.n13804</u><#>dic<verb><conj3><div><conj3><ptcpl>ta<neut><nom><pl><pft><pass><u>livymorph.ere_conj3perfppl31</u>
+<u>livymorph.verb17</u><u>ls.n13804</u><#>dic<verb><conj3><div><conj3><ptcpl>ta<neut><acc><pl><pft><pass><u>livymorph.ere_conj3perfppl34</u>
+<u>livymorph.verb17</u><u>ls.n13804</u><#>dic<verb><conj3><div><conj3><ptcpl>ta<neut><voc><pl><pft><pass><u>livymorph.ere_conj3perfppl36</u>
+> dicti
+<u>livymorph.verb17</u><u>ls.n13804</u><#>dic<verb><conj3><div><conj3><ptcpl>ti<masc><nom><pl><pft><pass><u>livymorph.ere_conj3perfppl7</u>
+<u>livymorph.verb17</u><u>ls.n13804</u><#>dic<verb><conj3><div><conj3><ptcpl>ti<masc><gen><sg><pft><pass><u>livymorph.ere_conj3perfppl2</u>
+<u>livymorph.verb17</u><u>ls.n13804</u><#>dic<verb><conj3><div><conj3><ptcpl>ti<masc><voc><pl><pft><pass><u>livymorph.ere_conj3perfppl12</u>
+<u>livymorph.verb17</u><u>ls.n13804</u><#>dic<verb><conj3><div><conj3><ptcpl>ti<neut><gen><sg><pft><pass><u>livymorph.ere_conj3perfppl26</u>
+> die
+<u>livymorph.n33</u><u>ls.n13847</u>di<noun><fem><es_ei><div><es_ei><noun>e<fem><gen><sg><u>livymorph.es_ei2b</u>
+<u>livymorph.n33</u><u>ls.n13847</u>di<noun><fem><es_ei><div><es_ei><noun>e<fem><dat><sg><u>livymorph.es_ei3b</u>
+<u>livymorph.n33</u><u>ls.n13847</u>di<noun><fem><es_ei><div><es_ei><noun>e<fem><abl><sg><u>livymorph.es_ei5</u>
+> diebus
+<u>livymorph.n33</u><u>ls.n13847</u>di<noun><fem><es_ei><div><es_ei><noun>ebus<fem><dat><pl><u>livymorph.es_ei8</u>
+<u>livymorph.n33</u><u>ls.n13847</u>di<noun><fem><es_ei><div><es_ei><noun>ebus<fem><abl><pl><u>livymorph.es_ei10</u>
+> diem
+<u>livymorph.n33</u><u>ls.n13847</u>di<noun><fem><es_ei><div><es_ei><noun>em<fem><acc><sg><u>livymorph.es_ei4</u>
+> dies
+<u>livymorph.n33</u><u>ls.n13847</u>di<noun><fem><es_ei><div><es_ei><noun>es<fem><nom><sg><u>livymorph.es_ei1</u>
+<u>livymorph.n33</u><u>ls.n13847</u>di<noun><fem><es_ei><div><es_ei><noun>es<fem><nom><pl><u>livymorph.es_ei6</u>
+<u>livymorph.n33</u><u>ls.n13847</u>di<noun><fem><es_ei><div><es_ei><noun>es<fem><acc><pl><u>livymorph.es_ei9</u>
+<u>livymorph.n33</u><u>ls.n13847</u>di<noun><fem><es_ei><div><es_ei><noun>es<fem><voc><sg><u>livymorph.es_ei11</u>
+<u>livymorph.n33</u><u>ls.n13847</u>di<noun><fem><es_ei><div><es_ei><noun>es<fem><voc><pl><u>livymorph.es_ei12</u>
+> differri
+no result for differri
+> dimittuntur
+no result for dimittuntur
+> disciplinae
+<u>livymorph.n137</u><u>ls.n14166</u>disciplin<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>livymorph.a_ae6</u>
+<u>livymorph.n137</u><u>ls.n14166</u>disciplin<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>livymorph.a_ae2</u>
+<u>livymorph.n137</u><u>ls.n14166</u>disciplin<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>livymorph.a_ae3</u>
+<u>livymorph.n137</u><u>ls.n14166</u>disciplin<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>livymorph.a_ae12</u>
+> discrimen
+<u>livymorph.n63</u><u>ls.n14221</u>discrim<noun><neut><en_inis><div><en_inis><noun>en<neut><nom><sg><u>livymorph.en_inis1</u>
+<u>livymorph.n63</u><u>ls.n14221</u>discrim<noun><neut><en_inis><div><en_inis><noun>en<neut><acc><sg><u>livymorph.en_inis4</u>
+<u>livymorph.n63</u><u>ls.n14221</u>discrim<noun><neut><en_inis><div><en_inis><noun>en<neut><voc><sg><u>livymorph.en_inis11</u>
+> discurrentis
+no result for discurrentis
+> disicere
+no result for disicere
+> dispositis
+no result for dispositis
+> dixissent
+<u>livymorph.verb18</u><u>ls.n13804</u><#>dix<verb><pftact><div><pftact><verb>issent<3rd><pl><plupft><subj><act><u>livymorph.pftact_plupft12</u>
+> domesticis
+<u>livymorph.adj11</u><u>ls.n14682</u>domestic<adj><us_a_um><div><us_a_um><adj>is<masc><dat><pl><pos><u>adjinfl.us_a_um8</u>
+<u>livymorph.adj11</u><u>ls.n14682</u>domestic<adj><us_a_um><div><us_a_um><adj>is<masc><abl><pl><pos><u>adjinfl.us_a_um10</u>
+<u>livymorph.adj11</u><u>ls.n14682</u>domestic<adj><us_a_um><div><us_a_um><adj>is<fem><dat><pl><pos><u>adjinfl.us_a_um44</u>
+<u>livymorph.adj11</u><u>ls.n14682</u>domestic<adj><us_a_um><div><us_a_um><adj>is<fem><abl><pl><pos><u>adjinfl.us_a_um46</u>
+<u>livymorph.adj11</u><u>ls.n14682</u>domestic<adj><us_a_um><div><us_a_um><adj>is<neut><dat><pl><pos><u>adjinfl.us_a_um82</u>
+<u>livymorph.adj11</u><u>ls.n14682</u>domestic<adj><us_a_um><div><us_a_um><adj>is<neut><abl><pl><pos><u>adjinfl.us_a_um84</u>
+> domi
+<u>livymorph.n139</u><u>ls.n14720</u>dom<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>livymorph.us_i6</u>
+<u>livymorph.n139</u><u>ls.n14720</u>dom<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>livymorph.us_i2</u>
+<u>livymorph.n139</u><u>ls.n14720</u>dom<noun><masc><us_i><div><us_i><noun>i<masc><voc><pl><u>livymorph.us_i12</u>
+<u>livymorph.irradv42</u><u>ls.n14720</u>domi<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> dominum
+<u>livymorph.n140</u><u>ls.n14699</u>domin<noun><masc><us_i><div><us_i><noun>um<masc><acc><sg><u>livymorph.us_i4</u>
+> domum
+<u>livymorph.n139</u><u>ls.n14720</u>dom<noun><masc><us_i><div><us_i><noun>um<masc><acc><sg><u>livymorph.us_i4</u>
+<u>livymorph.n138</u><u>ls.n14720</u>dom<noun><fem><us_us><div><us_us><noun>um<fem><acc><sg><u>livymorph.us_us28</u>
+> donarent
+no result for donarent
+> dubiam
+<u>livymorph.adj12</u><u>ls.n14834</u>dubi<adj><us_a_um><div><us_a_um><adj>am<fem><acc><sg><pos><u>adjinfl.us_a_um40</u>
+> dubiis
+<u>livymorph.adj12</u><u>ls.n14834</u>dubi<adj><us_a_um><div><us_a_um><adj>is<masc><dat><pl><pos><u>adjinfl.us_a_um8</u>
+<u>livymorph.adj12</u><u>ls.n14834</u>dubi<adj><us_a_um><div><us_a_um><adj>is<masc><abl><pl><pos><u>adjinfl.us_a_um10</u>
+<u>livymorph.adj12</u><u>ls.n14834</u>dubi<adj><us_a_um><div><us_a_um><adj>is<fem><dat><pl><pos><u>adjinfl.us_a_um44</u>
+<u>livymorph.adj12</u><u>ls.n14834</u>dubi<adj><us_a_um><div><us_a_um><adj>is<fem><abl><pl><pos><u>adjinfl.us_a_um46</u>
+<u>livymorph.adj12</u><u>ls.n14834</u>dubi<adj><us_a_um><div><us_a_um><adj>is<neut><dat><pl><pos><u>adjinfl.us_a_um82</u>
+<u>livymorph.adj12</u><u>ls.n14834</u>dubi<adj><us_a_um><div><us_a_um><adj>is<neut><abl><pl><pos><u>adjinfl.us_a_um84</u>
+> dubitatur
+no result for dubitatur
+> dum
+<u>livymorph.indecl35</u><u>ls.n14902</u>dum<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> duo
+<u>livymorph.irrduo6</u><u>lexent.n14914</u>duo<masc><voc><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrduo18</u><u>lexent.n14914</u>duo<neut><voc><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrduo16</u><u>lexent.n14914</u>duo<neut><acc><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrduo13</u><u>lexent.n14914</u>duo<neut><nom><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrduo1</u><u>lexent.n14914</u>duo<masc><nom><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> duobus
+<u>livymorph.irrduo5</u><u>lexent.n14914</u>duobus<masc><abl><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrduo3</u><u>lexent.n14914</u>duobus<masc><dat><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrduo17</u><u>lexent.n14914</u>duobus<neut><abl><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrduo15</u><u>lexent.n14914</u>duobus<neut><dat><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> duos
+<u>livymorph.irrduo4b</u><u>lexent.n14914</u>duos<masc><acc><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrduo4</u><u>lexent.n14914</u>duos<masc><acc><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> e
+<u>livymorph.indecl21</u><u>ls.n16519</u>e<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> eam
+<u>livymorph.irrpis14</u><u>lexent.n25029</u>eam<fem><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrveo55</u><u>lexent.n15868</u><#>eam<1st><sg><pres><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> eandem
+<u>livymorph.irrpidem14</u><u>lexent.n21343</u>eandem<fem><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> egere
+no result for egere
+> eius
+<u>livymorph.irrpis22</u><u>lexent.n25029</u>eius<neut><gen><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis2</u><u>lexent.n25029</u>eius<masc><gen><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis12</u><u>lexent.n25029</u>eius<fem><gen><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> eminebant
+no result for eminebant
+> eminebat
+no result for eminebat
+> eo
+<u>livymorph.irrpis5</u><u>lexent.n25029</u>eo<masc><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis25</u><u>lexent.n25029</u>eo<neut><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrveo1</u><u>lexent.n15868</u><#>eo<1st><sg><pres><indic><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> eodem
+<u>livymorph.irrpidem5</u><u>lexent.n21343</u>eodem<masc><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpidem25</u><u>lexent.n21343</u>eodem<neut><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> eodem
+<u>livymorph.irrpidem5</u><u>lexent.n21343</u>eodem<masc><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpidem25</u><u>lexent.n21343</u>eodem<neut><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> eorum
+<u>livymorph.irrpis7</u><u>lexent.n25029</u>eorum<masc><gen><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis27</u><u>lexent.n25029</u>eorum<neut><gen><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+> eos
+<u>livymorph.irrpis9</u><u>lexent.n25029</u>eos<masc><acc><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+> equitum
+<u>livymorph.n141</u><u>ls.n16051</u>equ<noun><masc><es_itis><div><es_itis><noun>itum<masc><gen><pl><u>livymorph.es_itis7</u>
+> erat
+<u>livymorph.irrv9</u><u>lexent.n46529</u><#>erat<3rd><sg><impft><indic><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> erga
+<u>livymorph.indecl36</u><u>ls.n16113</u>erga<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> erit
+<u>livymorph.irrv15</u><u>lexent.n46529</u><#>erit<3rd><sg><fut><indic><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> erumpentium
+no result for erumpentium
+> erupissent
+no result for erupissent
+> esse
+no result for esse
+> essent
+<u>livymorph.irrv48</u><u>lexent.n46529</u><#>essent<3rd><pl><impft><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> esset
+<u>livymorph.irrv45</u><u>lexent.n46529</u><#>esset<3rd><sg><impft><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> est
+<u>livymorph.irrv3</u><u>lexent.n46529</u><#>est<3rd><sg><pres><indic><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> et
+<u>livymorph.indecl14</u><u>ls.n16278</u>et<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> etiam
+<u>livymorph.indecl19</u><u>ls.n16296</u>etiam<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> etruscorum
+no result for etruscorum
+> eum
+<u>livymorph.irrpis4</u><u>lexent.n25029</u>eum<masc><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> evenit
+no result for evenit
+> ex
+<u>livymorph.indecl20</u><u>ls.n16519</u>ex<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> exacerbarentur
+no result for exacerbarentur
+> excederent
+no result for excederent
+> excepere
+no result for excepere
+> excepturum
+no result for excepturum
+> exercitum
+<u>livymorph.n142</u><u>ls.n16824</u>exercit<noun><masc><us_us><div><us_us><noun>um<masc><acc><sg><u>livymorph.us_us4</u>
+> exeuntem
+no result for exeuntem
+> exigua
+<u>livymorph.adj13</u><u>ls.n16876</u>exigu<adj><us_a_um><div><us_a_um><adj>a<fem><nom><sg><pos><u>adjinfl.us_a_um37</u>
+<u>livymorph.adj13</u><u>ls.n16876</u>exigu<adj><us_a_um><div><us_a_um><adj>a<fem><abl><sg><pos><u>adjinfl.us_a_um41</u>
+<u>livymorph.adj13</u><u>ls.n16876</u>exigu<adj><us_a_um><div><us_a_um><adj>a<fem><voc><sg><pos><u>adjinfl.us_a_um47</u>
+<u>livymorph.adj13</u><u>ls.n16876</u>exigu<adj><us_a_um><div><us_a_um><adj>a<neut><nom><pl><pos><u>adjinfl.us_a_um80</u>
+<u>livymorph.adj13</u><u>ls.n16876</u>exigu<adj><us_a_um><div><us_a_um><adj>a<neut><acc><pl><pos><u>adjinfl.us_a_um83</u>
+<u>livymorph.adj13</u><u>ls.n16876</u>exigu<adj><us_a_um><div><us_a_um><adj>a<neut><voc><pl><pos><u>adjinfl.us_a_um86</u>
+> exoleto
+no result for exoleto
+> exortum
+<u>livymorph.n143</u><u>ls.n16963</u>exort<noun><masc><us_us><div><us_us><noun>um<masc><acc><sg><u>livymorph.us_us4</u>
+> explerent
+no result for explerent
+> exposcentes
+no result for exposcentes
+> extemplo
+<u>livymorph.irradv3</u><u>ls.n17318</u>extemplo<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> extrinsecus
+<u>livymorph.irradv43</u><u>ls.n17400</u>extrinsecus<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> extulit
+no result for extulit
+> exulatum
+<u>livymorph.n144</u><u>ls.n17288</u>exulat<noun><masc><us_us><div><us_us><noun>um<masc><acc><sg><u>livymorph.us_us4</u>
+> facile
+<u>livymorph.adj14</u><u>ls.n17511</u>facil<adj><is_e><div><is_e><adj>e<neut><nom><sg><pos><u>livymorph.is_e75</u>
+<u>livymorph.adj14</u><u>ls.n17511</u>facil<adj><is_e><div><is_e><adj>e<neut><acc><sg><pos><u>livymorph.is_e78</u>
+<u>livymorph.adj14</u><u>ls.n17511</u>facil<adj><is_e><div><is_e><adj>e<neut><voc><sg><pos><u>livymorph.is_e85</u>
+> facta
+no result for facta
+> facti
+no result for facti
+> factis
+no result for factis
+> facto
+no result for facto
+> factum
+no result for factum
+> factus
+no result for factus
+> famae
+<u>livymorph.n64</u><u>ls.n17634</u>fam<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>livymorph.a_ae6</u>
+<u>livymorph.n64</u><u>ls.n17634</u>fam<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>livymorph.a_ae2</u>
+<u>livymorph.n64</u><u>ls.n17634</u>fam<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>livymorph.a_ae3</u>
+<u>livymorph.n64</u><u>ls.n17634</u>fam<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>livymorph.a_ae12</u>
+> fame
+<u>livymorph.n145</u><u>ls.n17642</u>fam<noun><fem><i_es_is><div><i_es_is><noun>e<fem><abl><sg><u>livymorph.i_es_is17</u>
+> ferendam
+no result for ferendam
+> feriendum
+no result for feriendum
+> ferox
+<u>livymorph.adj15</u><u>ls.n17971</u>fero<adj><x_cis><div><x_cis><adj>x<masc><nom><sg><pos><u>livymorph.x_cis1</u>
+<u>livymorph.adj15</u><u>ls.n17971</u>fero<adj><x_cis><div><x_cis><adj>x<fem><nom><sg><pos><u>livymorph.x_cis37</u>
+<u>livymorph.adj15</u><u>ls.n17971</u>fero<adj><x_cis><div><x_cis><adj>x<neut><nom><sg><pos><u>livymorph.x_cis73</u>
+<u>livymorph.adj15</u><u>ls.n17971</u>fero<adj><x_cis><div><x_cis><adj>x<neut><acc><sg><pos><u>livymorph.x_cis76</u>
+<u>livymorph.adj15</u><u>ls.n17971</u>fero<adj><x_cis><div><x_cis><adj>x<neut><voc><sg><pos><u>livymorph.x_cis83</u>
+> ferro
+<u>livymorph.n146</u><u>ls.n17991</u>ferr<noun><neut><us_i><div><us_i><noun>o<neut><dat><sg><u>livymorph.us_i15</u>
+<u>livymorph.n146</u><u>ls.n17991</u>ferr<noun><neut><us_i><div><us_i><noun>o<neut><abl><sg><u>livymorph.us_i17</u>
+> festis
+<u>livymorph.adj16</u><u>ls.n18045</u>fest<adj><us_a_um><div><us_a_um><adj>is<masc><dat><pl><pos><u>adjinfl.us_a_um8</u>
+<u>livymorph.adj16</u><u>ls.n18045</u>fest<adj><us_a_um><div><us_a_um><adj>is<masc><abl><pl><pos><u>adjinfl.us_a_um10</u>
+<u>livymorph.adj16</u><u>ls.n18045</u>fest<adj><us_a_um><div><us_a_um><adj>is<fem><dat><pl><pos><u>adjinfl.us_a_um44</u>
+<u>livymorph.adj16</u><u>ls.n18045</u>fest<adj><us_a_um><div><us_a_um><adj>is<fem><abl><pl><pos><u>adjinfl.us_a_um46</u>
+<u>livymorph.adj16</u><u>ls.n18045</u>fest<adj><us_a_um><div><us_a_um><adj>is<neut><dat><pl><pos><u>adjinfl.us_a_um82</u>
+<u>livymorph.adj16</u><u>ls.n18045</u>fest<adj><us_a_um><div><us_a_um><adj>is<neut><abl><pl><pos><u>adjinfl.us_a_um84</u>
+> fiat
+no result for fiat
+> fidei
+<u>livymorph.n35</u><u>ls.n18127</u>fid<noun><fem><es_ei><div><es_ei><noun>ei<fem><gen><sg><u>livymorph.es_ei2</u>
+<u>livymorph.n35</u><u>ls.n18127</u>fid<noun><fem><es_ei><div><es_ei><noun>ei<fem><dat><sg><u>livymorph.es_ei3</u>
+> fidem
+<u>livymorph.n35</u><u>ls.n18127</u>fid<noun><fem><es_ei><div><es_ei><noun>em<fem><acc><sg><u>livymorph.es_ei4</u>
+> fierent
+no result for fierent
+> fit
+no result for fit
+> flumine
+<u>livymorph.n147</u><u>ls.n18442</u>flum<noun><neut><en_inis><div><en_inis><noun>ine<neut><abl><sg><u>livymorph.en_inis5</u>
+> foedus
+<u>livymorph.n148</u><u>ls.n18493</u>foed<noun><neut><us_eris><div><us_eris><noun>us<neut><nom><sg><u>livymorph.us_eris1</u>
+<u>livymorph.n148</u><u>ls.n18493</u>foed<noun><neut><us_eris><div><us_eris><noun>us<neut><acc><sg><u>livymorph.us_eris4</u>
+<u>livymorph.n148</u><u>ls.n18493</u>foed<noun><neut><us_eris><div><us_eris><noun>us<neut><voc><sg><u>livymorph.us_eris11</u>
+> fore
+no result for fore
+> formulae
+<u>livymorph.n149</u><u>ls.n18602</u>formul<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>livymorph.a_ae6</u>
+<u>livymorph.n149</u><u>ls.n18602</u>formul<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>livymorph.a_ae2</u>
+<u>livymorph.n149</u><u>ls.n18602</u>formul<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>livymorph.a_ae3</u>
+<u>livymorph.n149</u><u>ls.n18602</u>formul<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>livymorph.a_ae12</u>
+> forte
+<u>livymorph.irradv44</u><u>ls.n18623</u>forte<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> fortuna
+<u>livymorph.n36</u><u>ls.n18643</u>fortun<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>livymorph.a_ae1</u>
+<u>livymorph.n36</u><u>ls.n18643</u>fortun<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>livymorph.a_ae5</u>
+<u>livymorph.n36</u><u>ls.n18643</u>fortun<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>livymorph.a_ae11</u>
+> fractos
+no result for fractos
+> fragor
+<u>livymorph.n37</u><u>ls.n18693</u>fragor<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>livymorph.0_is1</u>
+<u>livymorph.n37</u><u>ls.n18693</u>fragor<noun><masc><0_is><div><0_is><noun><masc><voc><sg><u>livymorph.0_is11</u>
+> fraudans
+no result for fraudans
+> fraudari
+no result for fraudari
+> frumentum
+<u>livymorph.n150</u><u>ls.n18884</u>frument<noun><neut><us_i><div><us_i><noun>um<neut><nom><sg><u>livymorph.us_i13</u>
+<u>livymorph.n150</u><u>ls.n18884</u>frument<noun><neut><us_i><div><us_i><noun>um<neut><acc><sg><u>livymorph.us_i16</u>
+<u>livymorph.n150</u><u>ls.n18884</u>frument<noun><neut><us_i><div><us_i><noun>um<neut><voc><sg><u>livymorph.us_i23</u>
+> fuerat
+<u>livymorph.irrv27</u><u>lexent.n46529</u><#>fuerat<3rd><sg><plupft><indic><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> fuerint
+<u>livymorph.irrv54</u><u>lexent.n46529</u><#>fuerint<3rd><pl><pft><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+<u>livymorph.irrv36</u><u>lexent.n46529</u><#>fuerint<3rd><pl><futpft><indic><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> fugat
+no result for fugat
+> fugere
+<u>livymorph.verb106</u><u>ls.n18943</u><#>fug<verb><conj3io><div><conj3io><verb>ere<2nd><sg><pres><indic><pass><u>livymorph.ereio_conj3iopres8b</u>
+<u>livymorph.verb106</u><u>ls.n18943</u><#>fug<verb><conj3io><div><conj3io><verb>ere<3rd><pl><pft><indic><act><u>livymorph.ereio_pft6b</u>
+<u>livymorph.verb106</u><u>ls.n18943</u><#>fug<verb><conj3io><div><conj3io><infin>ere<pres><act><u>livymorph.ereio_inf1</u>
+> fuisse
+no result for fuisse
+> fuisset
+<u>livymorph.irrv57</u><u>lexent.n46529</u><#>fuisset<3rd><sg><plupft><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> fuit
+<u>livymorph.irrv21</u><u>lexent.n46529</u><#>fuit<3rd><sg><pft><indic><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> fundit
+no result for fundit
+> funeri
+no result for funeri
+> fusi
+no result for fusi
+> futurum
+no result for futurum
+> geganio
+no result for geganio
+> genere
+<u>livymorph.n151</u><u>ls.n19477</u>gen<noun><neut><us_eris><div><us_eris><noun>ere<neut><abl><sg><u>livymorph.us_eris5</u>
+> gerens
+no result for gerens
+> gessisse
+no result for gessisse
+> gradu
+<u>livymorph.n38</u><u>ls.n19801</u>grad<noun><masc><us_us><div><us_us><noun>u<masc><dat><sg><u>livymorph.us_us3b</u>
+<u>livymorph.n38</u><u>ls.n19801</u>grad<noun><masc><us_us><div><us_us><noun>u<masc><abl><sg><u>livymorph.us_us5</u>
+> grata
+no result for grata
+> habebat
+<u>livymorph.verb19</u><u>ls.n20077</u><#>hab<verb><conj2><div><conj2><verb>ebat<3rd><sg><impft><indic><act><u>livymorph.ere_conj2impft3</u>
+> habituram
+no result for habituram
+> habuit
+<u>livymorph.verb19</u><u>ls.n20077</u><#>hab<verb><conj2><div><conj2><verb>uit<3rd><sg><pft><indic><act><u>livymorph.ere_pft3</u>
+> hac
+<u>livymorph.irrphic15</u><u>lexent.n20640</u>hac<fem><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> haec
+<u>livymorph.irrphic29</u><u>lexent.n20640</u>haec<neut><acc><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrphic26</u><u>lexent.n20640</u>haec<neut><nom><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrphic11</u><u>lexent.n20640</u>haec<fem><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> haesissent
+no result for haesissent
+> haud
+<u>livymorph.irradv29</u><u>ls.n20282</u>haud<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> herminium
+no result for herminium
+> hi
+<u>livymorph.irrphic6</u><u>lexent.n20640</u>hi<masc><nom><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+> hic
+<u>livymorph.irrphic1</u><u>lexent.n20640</u>hic<masc><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irradv1</u><u>ls.n20640</u>hic<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> hinc
+<u>livymorph.irradv30</u><u>ls.n20697</u>hinc<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> his
+<u>livymorph.irrphic8b</u><u>lexent.n20640</u>his<masc><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrphic8</u><u>lexent.n20640</u>his<masc><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrphic30</u><u>lexent.n20640</u>his<neut><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrphic28b</u><u>lexent.n20640</u>his<neut><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrphic28</u><u>lexent.n20640</u>his<neut><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrphic20</u><u>lexent.n20640</u>his<fem><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrphic18b</u><u>lexent.n20640</u>his<fem><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrphic18</u><u>lexent.n20640</u>his<fem><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrphic10</u><u>lexent.n20640</u>his<masc><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+> hominum
+<u>livymorph.n152</u><u>ls.n20866</u>hom<noun><masc><o_inis><div><o_inis><noun>inum<masc><gen><pl><u>livymorph.o_inis7</u>
+> honor
+<u>livymorph.n17</u><u>ls.n20890</u>honor<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>livymorph.0_is1</u>
+<u>livymorph.n17</u><u>ls.n20890</u>honor<noun><masc><0_is><div><0_is><noun><masc><voc><sg><u>livymorph.0_is11</u>
+> honores
+<u>livymorph.n17</u><u>ls.n20890</u>honor<noun><masc><0_is><div><0_is><noun>es<masc><nom><pl><u>livymorph.0_is6</u>
+<u>livymorph.n17</u><u>ls.n20890</u>honor<noun><masc><0_is><div><0_is><noun>es<masc><acc><pl><u>livymorph.0_is9</u>
+<u>livymorph.n17</u><u>ls.n20890</u>honor<noun><masc><0_is><div><0_is><noun>es<masc><voc><pl><u>livymorph.0_is12</u>
+> honori
+<u>livymorph.n17</u><u>ls.n20890</u>honor<noun><masc><0_is><div><0_is><noun>i<masc><dat><sg><u>livymorph.0_is3</u>
+> horatius
+no result for horatius
+> horret
+no result for horret
+> hospitia
+<u>livymorph.n39</u><u>ls.n21007</u>hospiti<noun><neut><us_i><div><us_i><noun>a<neut><nom><pl><u>livymorph.us_i18</u>
+<u>livymorph.n39</u><u>ls.n21007</u>hospiti<noun><neut><us_i><div><us_i><noun>a<neut><acc><pl><u>livymorph.us_i21</u>
+<u>livymorph.n39</u><u>ls.n21007</u>hospiti<noun><neut><us_i><div><us_i><noun>a<neut><voc><pl><u>livymorph.us_i24</u>
+> hospitio
+<u>livymorph.n39</u><u>ls.n21007</u>hospiti<noun><neut><us_i><div><us_i><noun>o<neut><dat><sg><u>livymorph.us_i15</u>
+<u>livymorph.n39</u><u>ls.n21007</u>hospiti<noun><neut><us_i><div><us_i><noun>o<neut><abl><sg><u>livymorph.us_i17</u>
+> hostem
+<u>livymorph.n41</u><u>ls.n21026</u>host<noun><fem><is_is><div><is_is><noun>em<fem><acc><sg><u>livymorph.is_is16</u>
+<u>livymorph.n40</u><u>ls.n21026</u>host<noun><masc><is_is><div><is_is><noun>em<masc><acc><sg><u>livymorph.is_is4</u>
+> hostes
+<u>livymorph.n41</u><u>ls.n21026</u>host<noun><fem><is_is><div><is_is><noun>es<fem><nom><pl><u>livymorph.is_is18</u>
+<u>livymorph.n41</u><u>ls.n21026</u>host<noun><fem><is_is><div><is_is><noun>es<fem><acc><pl><u>livymorph.is_is21</u>
+<u>livymorph.n41</u><u>ls.n21026</u>host<noun><fem><is_is><div><is_is><noun>es<fem><voc><pl><u>livymorph.is_is24</u>
+<u>livymorph.n40</u><u>ls.n21026</u>host<noun><masc><is_is><div><is_is><noun>es<masc><nom><pl><u>livymorph.is_is6</u>
+<u>livymorph.n40</u><u>ls.n21026</u>host<noun><masc><is_is><div><is_is><noun>es<masc><acc><pl><u>livymorph.is_is9</u>
+<u>livymorph.n40</u><u>ls.n21026</u>host<noun><masc><is_is><div><is_is><noun>es<masc><voc><pl><u>livymorph.is_is12</u>
+> hostibus
+<u>livymorph.n41</u><u>ls.n21026</u>host<noun><fem><is_is><div><is_is><noun>ibus<fem><dat><pl><u>livymorph.is_is20</u>
+<u>livymorph.n41</u><u>ls.n21026</u>host<noun><fem><is_is><div><is_is><noun>ibus<fem><abl><pl><u>livymorph.is_is22</u>
+<u>livymorph.n40</u><u>ls.n21026</u>host<noun><masc><is_is><div><is_is><noun>ibus<masc><dat><pl><u>livymorph.is_is8</u>
+<u>livymorph.n40</u><u>ls.n21026</u>host<noun><masc><is_is><div><is_is><noun>ibus<masc><abl><pl><u>livymorph.is_is10</u>
+> hostiles
+<u>livymorph.adj17</u><u>ls.n21019</u>hostil<adj><is_e><div><is_e><adj>es<masc><nom><pl><pos><u>livymorph.is_e6</u>
+<u>livymorph.adj17</u><u>ls.n21019</u>hostil<adj><is_e><div><is_e><adj>es<masc><acc><pl><pos><u>livymorph.is_e9</u>
+<u>livymorph.adj17</u><u>ls.n21019</u>hostil<adj><is_e><div><is_e><adj>es<masc><voc><pl><pos><u>livymorph.is_e12</u>
+<u>livymorph.adj17</u><u>ls.n21019</u>hostil<adj><is_e><div><is_e><adj>es<fem><nom><pl><pos><u>livymorph.is_e42</u>
+<u>livymorph.adj17</u><u>ls.n21019</u>hostil<adj><is_e><div><is_e><adj>es<fem><acc><pl><pos><u>livymorph.is_e45</u>
+<u>livymorph.adj17</u><u>ls.n21019</u>hostil<adj><is_e><div><is_e><adj>es<fem><voc><pl><pos><u>livymorph.is_e48</u>
+> hostis
+<u>livymorph.n41</u><u>ls.n21026</u>host<noun><fem><is_is><div><is_is><noun>is<fem><nom><sg><u>livymorph.is_is13</u>
+<u>livymorph.n41</u><u>ls.n21026</u>host<noun><fem><is_is><div><is_is><noun>is<fem><acc><pl><u>livymorph.is_is21b</u>
+<u>livymorph.n41</u><u>ls.n21026</u>host<noun><fem><is_is><div><is_is><noun>is<fem><gen><sg><u>livymorph.is_is14</u>
+<u>livymorph.n41</u><u>ls.n21026</u>host<noun><fem><is_is><div><is_is><noun>is<fem><voc><sg><u>livymorph.is_is23</u>
+<u>livymorph.n40</u><u>ls.n21026</u>host<noun><masc><is_is><div><is_is><noun>is<masc><nom><sg><u>livymorph.is_is1</u>
+<u>livymorph.n40</u><u>ls.n21026</u>host<noun><masc><is_is><div><is_is><noun>is<masc><acc><pl><u>livymorph.is_is9b</u>
+<u>livymorph.n40</u><u>ls.n21026</u>host<noun><masc><is_is><div><is_is><noun>is<masc><gen><sg><u>livymorph.is_is2</u>
+<u>livymorph.n40</u><u>ls.n21026</u>host<noun><masc><is_is><div><is_is><noun>is<masc><voc><sg><u>livymorph.is_is11</u>
+> hostium
+<u>livymorph.n41</u><u>ls.n21026</u>host<noun><fem><is_is><div><is_is><noun>ium<fem><gen><pl><u>livymorph.is_is19</u>
+<u>livymorph.n40</u><u>ls.n21026</u>host<noun><masc><is_is><div><is_is><noun>ium<masc><gen><pl><u>livymorph.is_is7</u>
+> huic
+<u>livymorph.irrphic3</u><u>lexent.n20640</u>huic<masc><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrphic23</u><u>lexent.n20640</u>huic<neut><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrphic13</u><u>lexent.n20640</u>huic<fem><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> hunc
+<u>livymorph.irrphic4</u><u>lexent.n20640</u>hunc<masc><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> iam
+<u>livymorph.irradv4</u><u>ls.n25184</u>iam<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> ianiculo
+no result for ianiculo
+> ianiculum
+no result for ianiculum
+> ibi
+<u>livymorph.irradv5</u><u>ls.n21296</u>ibi<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> ibique
+<u>livymorph.irradv45</u><u>ls.n21296</u>ibique<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> ictum
+<u>livymorph.verb79</u><u>ls.n21321</u><#>ic<verb><c3iopres><div><c3iopres><supine>tum<acc><u>livymorph.c3iopressup1</u>
+> id
+<u>livymorph.irrpis24</u><u>lexent.n25029</u>id<neut><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis21</u><u>lexent.n25029</u>id<neut><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> idem
+<u>livymorph.irrpidem6</u><u>lexent.n21343</u>idem<masc><nom><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpidem24</u><u>lexent.n21343</u>idem<neut><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpidem21</u><u>lexent.n21343</u>idem<neut><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpidem1</u><u>lexent.n21343</u>idem<masc><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> ignem
+<u>livymorph.n42</u><u>ls.n21403</u>ign<noun><masc><is_is><div><is_is><noun>em<masc><acc><sg><u>livymorph.is_is4</u>
+> igni
+<u>livymorph.n42</u><u>ls.n21403</u>ign<noun><masc><is_is><div><is_is><noun>i<masc><dat><sg><u>livymorph.is_is3</u>
+<u>livymorph.n42</u><u>ls.n21403</u>ign<noun><masc><is_is><div><is_is><noun>i<masc><abl><sg><u>livymorph.is_is5b</u>
+> iis
+<u>livymorph.irrpis8b</u><u>lexent.n25029</u>iis<masc><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis30b</u><u>lexent.n25029</u>iis<neut><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis28b</u><u>lexent.n25029</u>iis<neut><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis20b</u><u>lexent.n25029</u>iis<fem><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis18b</u><u>lexent.n25029</u>iis<fem><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis10b</u><u>lexent.n25029</u>iis<masc><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+> ille
+<u>livymorph.irrpille1</u><u>lexent.n21494</u>ille<masc><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> illi
+<u>livymorph.irrpille6</u><u>lexent.n21494</u>illi<masc><nom><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpille3</u><u>lexent.n21494</u>illi<masc><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpille23</u><u>lexent.n21494</u>illi<neut><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpille13</u><u>lexent.n21494</u>illi<fem><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> illo
+<u>livymorph.irrpille5</u><u>lexent.n21494</u>illo<masc><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpille25</u><u>lexent.n21494</u>illo<neut><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> imminerent
+no result for imminerent
+> impetu
+<u>livymorph.n153</u><u>ls.n21919</u>impet<noun><masc><us_us><div><us_us><noun>u<masc><dat><sg><u>livymorph.us_us3b</u>
+<u>livymorph.n153</u><u>ls.n21919</u>impet<noun><masc><us_us><div><us_us><noun>u<masc><abl><sg><u>livymorph.us_us5</u>
+> impetum
+<u>livymorph.n153</u><u>ls.n21919</u>impet<noun><masc><us_us><div><us_us><noun>um<masc><acc><sg><u>livymorph.us_us4</u>
+> impetus
+<u>livymorph.n153</u><u>ls.n21919</u>impet<noun><masc><us_us><div><us_us><noun>us<masc><nom><sg><u>livymorph.us_us1</u>
+<u>livymorph.n153</u><u>ls.n21919</u>impet<noun><masc><us_us><div><us_us><noun>us<masc><nom><pl><u>livymorph.us_us6</u>
+<u>livymorph.n153</u><u>ls.n21919</u>impet<noun><masc><us_us><div><us_us><noun>us<masc><acc><pl><u>livymorph.us_us9</u>
+<u>livymorph.n153</u><u>ls.n21919</u>impet<noun><masc><us_us><div><us_us><noun>us<masc><gen><sg><u>livymorph.us_us2</u>
+<u>livymorph.n153</u><u>ls.n21919</u>impet<noun><masc><us_us><div><us_us><noun>us<masc><voc><sg><u>livymorph.us_us11</u>
+<u>livymorph.n153</u><u>ls.n21919</u>impet<noun><masc><us_us><div><us_us><noun>us<masc><voc><pl><u>livymorph.us_us12</u>
+> in
+<u>livymorph.indecl15</u><u>ls.n22111</u>in<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> incenso
+no result for incenso
+> incipiant
+no result for incipiant
+> incolumes
+no result for incolumes
+> incolumis
+no result for incolumis
+> incommode
+no result for incommode
+> inconsulte
+no result for inconsulte
+> incremento
+no result for incremento
+> increpare
+no result for increpare
+> inde
+<u>livymorph.irradv6</u><u>ls.n22699</u>inde<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> indignatio
+no result for indignatio
+> ineundum
+no result for ineundum
+> infeliciter
+no result for infeliciter
+> infensa
+no result for infensa
+> infestus
+no result for infestus
+> ingenia
+no result for ingenia
+> ingens
+no result for ingens
+> ingenti
+no result for ingenti
+> iniecit
+no result for iniecit
+> inierant
+no result for inierant
+> inimici
+no result for inimici
+> initium
+no result for initium
+> inlata
+no result for inlata
+> inmemores
+no result for inmemores
+> inminentibus
+no result for inminentibus
+> inminentis
+no result for inminentis
+> innocentem
+no result for innocentem
+> inopia
+no result for inopia
+> inpelli
+no result for inpelli
+> inquit
+<u>livymorph.irrvinquam3</u><u>lexent.n23674</u><#>inquit<3rd><sg><pres><indic><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> inrupit
+no result for inrupit
+> insculptum
+no result for insculptum
+> insignis
+no result for insignis
+> insperato
+no result for insperato
+> intenta
+no result for intenta
+> intentum
+no result for intentum
+> inter
+<u>livymorph.indecl22</u><u>ls.n24154</u>inter<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> interpreti
+no result for interpreti
+> interrumpant
+no result for interrumpant
+> intuentes
+no result for intuentes
+> intus
+no result for intus
+> invasissent
+no result for invasissent
+> invidiae
+<u>livymorph.n43</u><u>ls.n24762</u>invidi<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>livymorph.a_ae6</u>
+<u>livymorph.n43</u><u>ls.n24762</u>invidi<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>livymorph.a_ae2</u>
+<u>livymorph.n43</u><u>ls.n24762</u>invidi<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>livymorph.a_ae3</u>
+<u>livymorph.n43</u><u>ls.n24762</u>invidi<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>livymorph.a_ae12</u>
+> ipsam
+<u>livymorph.irrpipse14</u><u>lexent.n24872</u>ipsam<fem><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> ipse
+<u>livymorph.irrpipse1</u><u>lexent.n24872</u>ipse<masc><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> ipsi
+<u>livymorph.irrpipse6</u><u>lexent.n24872</u>ipsi<masc><nom><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpipse3</u><u>lexent.n24872</u>ipsi<masc><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpipse23</u><u>lexent.n24872</u>ipsi<neut><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpipse13</u><u>lexent.n24872</u>ipsi<fem><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> ipso
+<u>livymorph.irrpipse5</u><u>lexent.n24872</u>ipso<masc><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpipse25</u><u>lexent.n24872</u>ipso<neut><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> ipsos
+<u>livymorph.irrpipse9</u><u>lexent.n24872</u>ipsos<masc><acc><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+> ira
+<u>livymorph.n44</u><u>ls.n24877</u>ir<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>livymorph.a_ae1</u>
+<u>livymorph.n44</u><u>ls.n24877</u>ir<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>livymorph.a_ae5</u>
+<u>livymorph.n44</u><u>ls.n24877</u>ir<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>livymorph.a_ae11</u>
+> is
+<u>livymorph.irrpis8c</u><u>lexent.n25029</u>is<masc><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis30c</u><u>lexent.n25029</u>is<neut><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis28c</u><u>lexent.n25029</u>is<neut><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis20c</u><u>lexent.n25029</u>is<fem><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis18c</u><u>lexent.n25029</u>is<fem><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis10c</u><u>lexent.n25029</u>is<masc><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpis1</u><u>lexent.n25029</u>is<masc><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrveo2</u><u>lexent.n15868</u><#>is<2nd><sg><pres><indic><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> ita
+<u>livymorph.irradv7</u><u>ls.n25100</u>ita<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> itaque
+<u>livymorph.indecl23</u><u>ls.n25104</u>itaque<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> item
+<u>livymorph.irradv8</u><u>ls.n25106</u>item<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> iter
+<u>livymorph.irrniter6</u><u>lexent.n25107</u>iter<neut><voc><sg><irregnoun><div><irregnoun><u>irreginfl.0</u>
+<u>livymorph.irrniter4</u><u>lexent.n25107</u>iter<neut><acc><sg><irregnoun><div><irregnoun><u>irreginfl.0</u>
+<u>livymorph.irrniter1</u><u>lexent.n25107</u>iter<neut><nom><sg><irregnoun><div><irregnoun><u>irreginfl.0</u>
+> iterum
+<u>livymorph.irradv9</u><u>ls.n25115</u>iterum<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> iubeat
+no result for iubeat
+> iuberent
+no result for iuberent
+> iudicem
+<u>livymorph.n65</u><u>ls.n25280</u>iud<noun><masc><ex_icis><div><ex_icis><noun>icem<masc><acc><sg><u>livymorph.ex_icis4</u>
+> ius
+<u>livymorph.n69</u><u>ls.n25395</u>iu<noun><neut><s_ris><div><s_ris><noun>s<neut><nom><sg><u>livymorph.s_ris25</u>
+<u>livymorph.n69</u><u>ls.n25395</u>iu<noun><neut><s_ris><div><s_ris><noun>s<neut><acc><sg><u>livymorph.s_ris28</u>
+<u>livymorph.n69</u><u>ls.n25395</u>iu<noun><neut><s_ris><div><s_ris><noun>s<neut><voc><sg><u>livymorph.s_ris36</u>
+> iuventute
+<u>livymorph.n68</u><u>ls.n25447</u>iuvent<noun><fem><us_utis><div><us_utis><noun>ute<fem><abl><sg><u>livymorph.us_utis17</u>
+> iuvenum
+no result for iuvenum
+> laeti
+no result for laeti
+> larcium
+no result for larcium
+> latam
+<u>livymorph.verb62</u><u>ls.n17964</u><#>lat<verb><pftpass><div><pftpass><ptcpl>am<fem><acc><sg><pft><pass><u>livymorph.pft_perfppl16</u>
+> latinis
+no result for latinis
+> latio
+no result for latio
+> laude
+<u>livymorph.n66</u><u>ls.n26083</u>lau<noun><fem><s_dis><div><s_dis><noun>de<fem><abl><sg><u>livymorph.s_dis5</u>
+> legato
+no result for legato
+> legem
+<u>livymorph.n12</u><u>ls.n26431</u>le<noun><fem><x_gis><div><x_gis><noun>gem<fem><acc><sg><u>livymorph.x_gis16</u>
+> legiones
+no result for legiones
+> libertatis
+<u>livymorph.n67</u><u>ls.n26481</u>liber<noun><fem><tas_tatis><div><tas_tatis><noun>tatis<fem><acc><pl><u>livymorph.tas_tatis9b</u>
+<u>livymorph.n67</u><u>ls.n26481</u>liber<noun><fem><tas_tatis><div><tas_tatis><noun>tatis<fem><gen><sg><u>livymorph.tas_tatis2</u>
+> liceret
+<u>livymorph.irrvlicet63</u><u>lexent.n26547</u><#>liceret<3rd><sg><impft><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> licinius
+no result for licinius
+> locorum
+<u>livymorph.n6</u><u>ls.n26903</u>loc<noun><masc><us_i><div><us_i><noun>orum<masc><gen><pl><u>livymorph.us_i7</u>
+> locutus
+no result for locutus
+> longe
+no result for longe
+> longulam
+no result for longulam
+> loquor
+no result for loquor
+> ludi
+<u>livymorph.n87</u><u>ls.n27171</u>lud<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>livymorph.us_i6</u>
+<u>livymorph.n87</u><u>ls.n27171</u>lud<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>livymorph.us_i2</u>
+<u>livymorph.n87</u><u>ls.n27171</u>lud<noun><masc><us_i><div><us_i><noun>i<masc><voc><pl><u>livymorph.us_i12</u>
+> ludis
+<u>livymorph.n87</u><u>ls.n27171</u>lud<noun><masc><us_i><div><us_i><noun>is<masc><dat><pl><u>livymorph.us_i8</u>
+<u>livymorph.n87</u><u>ls.n27171</u>lud<noun><masc><us_i><div><us_i><noun>is<masc><abl><pl><u>livymorph.us_i10</u>
+> ludos
+<u>livymorph.n87</u><u>ls.n27171</u>lud<noun><masc><us_i><div><us_i><noun>os<masc><nom><sg><u>livymorph.us_i1b</u>
+<u>livymorph.n87</u><u>ls.n27171</u>lud<noun><masc><us_i><div><us_i><noun>os<masc><acc><pl><u>livymorph.us_i9</u>
+> macerino
+no result for macerino
+> magis
+<u>livymorph.irradv38</u><u>ls.n27649</u>magis<comp><irregadv><div><irregadv><u>irreginfl.2</u>
+> magistratu
+no result for magistratu
+> magistratum
+no result for magistratum
+> magistratus
+no result for magistratus
+> magna
+no result for magna
+> maiestatem
+<u>livymorph.n70</u><u>ls.n27666</u>maies<noun><fem><tas_tatis><div><tas_tatis><noun>tatem<fem><acc><sg><u>livymorph.tas_tatis4</u>
+> maior
+no result for maior
+> mansit
+no result for mansit
+> manu
+<u>livymorph.n71</u><u>ls.n27977</u>man<noun><fem><us_us><div><us_us><noun>u<fem><dat><sg><u>livymorph.us_us27b</u>
+<u>livymorph.n71</u><u>ls.n27977</u>man<noun><fem><us_us><div><us_us><noun>u<fem><abl><sg><u>livymorph.us_us29</u>
+> marcio
+no result for marcio
+> marcius
+no result for marcius
+> me
+<u>livymorph.irrpego5</u><u>ls.n15326</u>me<masc><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpego4</u><u>ls.n15326</u>me<masc><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpego15</u><u>ls.n15326</u>me<fem><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpego14</u><u>ls.n15326</u>me<fem><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> meis
+no result for meis
+> memini
+no result for memini
+> memoria
+<u>livymorph.n74</u><u>ls.n28613</u>memori<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>livymorph.a_ae1</u>
+<u>livymorph.n74</u><u>ls.n28613</u>memori<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>livymorph.a_ae5</u>
+<u>livymorph.n74</u><u>ls.n28613</u>memori<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>livymorph.a_ae11</u>
+> menenius
+no result for menenius
+> mentio
+no result for mentio
+> merito
+no result for merito
+> metu
+<u>livymorph.n72</u><u>ls.n28985</u>met<noun><masc><us_us><div><us_us><noun>u<masc><dat><sg><u>livymorph.us_us3b</u>
+<u>livymorph.n72</u><u>ls.n28985</u>met<noun><masc><us_us><div><us_us><noun>u<masc><abl><sg><u>livymorph.us_us5</u>
+> militem
+<u>livymorph.n73</u><u>ls.n29035</u>mil<noun><masc><es_itis><div><es_itis><noun>item<masc><acc><sg><u>livymorph.es_itis4</u>
+> militum
+<u>livymorph.n73</u><u>ls.n29035</u>mil<noun><masc><es_itis><div><es_itis><noun>itum<masc><gen><pl><u>livymorph.es_itis7</u>
+> minaciter
+no result for minaciter
+> minae
+no result for minae
+> minas
+no result for minas
+> minime
+no result for minime
+> ministerii
+no result for ministerii
+> ministerium
+no result for ministerium
+> minitans
+no result for minitans
+> minus
+no result for minus
+> miraculo
+no result for miraculo
+> missus
+<u>livymorph.verb8</u><u>ls.n29328</u><#>miss<verb><pftpass><div><pftpass><ptcpl>us<masc><nom><sg><pft><pass><u>livymorph.pft_perfppl1</u>
+> mixtus
+no result for mixtus
+> mobilia
+no result for mobilia
+> modo
+<u>livymorph.irradv10</u><u>ls.n29388</u>modo<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> moenibus
+no result for moenibus
+> monere
+no result for monere
+> monte
+<u>livymorph.n45</u><u>ls.n29604</u>mon<noun><masc><s_tis><div><s_tis><noun>te<masc><abl><sg><u>livymorph.s_tis5</u>
+> monumento
+no result for monumento
+> mori
+no result for mori
+> moritur
+no result for moritur
+> morum
+no result for morum
+> movit
+no result for movit
+> mox
+<u>livymorph.irradv28</u><u>ls.n29782</u>mox<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> muliebri
+no result for muliebri
+> multis
+no result for multis
+> multitudo
+no result for multitudo
+> multos
+no result for multos
+> munimentum
+no result for munimentum
+> muris
+no result for muris
+> muro
+no result for muro
+> nam
+<u>livymorph.indecl24</u><u>ls.n30350</u>nam<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> ne
+<u>livymorph.indecl25</u><u>ls.n30583</u>ne<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> necessarii
+no result for necessarii
+> necis
+no result for necis
+> negotium
+<u>livymorph.n75</u><u>ls.n30693</u>negoti<noun><neut><us_i><div><us_i><noun>um<neut><nom><sg><u>livymorph.us_i13</u>
+<u>livymorph.n75</u><u>ls.n30693</u>negoti<noun><neut><us_i><div><us_i><noun>um<neut><acc><sg><u>livymorph.us_i16</u>
+<u>livymorph.n75</u><u>ls.n30693</u>negoti<noun><neut><us_i><div><us_i><noun>um<neut><voc><sg><u>livymorph.us_i23</u>
+> neque
+<u>livymorph.indecl2</u><u>ls.n30776</u>neque<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> nequiquam
+<u>livymorph.irradv31</u><u>ls.n30784</u>nequiquam<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> neve
+<u>livymorph.irradv11</u><u>ls.n30868</u>neve<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> ni
+<u>livymorph.indecl26</u><u>ls.n30883</u>ni<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> nimio
+no result for nimio
+> nimis
+<u>livymorph.irradv12</u><u>ls.n30981</u>nimis<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> nisi
+<u>livymorph.indecl27</u><u>ls.n31008</u>nisi<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> nocente
+no result for nocente
+> noctem
+<u>livymorph.n46</u><u>ls.n31309</u>no<noun><fem><x_ctis><div><x_ctis><noun>ctem<fem><acc><sg><u>livymorph.x_ctis16</u>
+> nollent
+no result for nollent
+> nominis
+<u>livymorph.n76</u><u>ls.n31131</u>nom<noun><neut><en_inis><div><en_inis><noun>inis<neut><gen><sg><u>livymorph.en_inis2</u>
+<u>livymorph.n47</u><u>ls.n31131</u>nom<noun><neut><en_inis><div><en_inis><noun>inis<neut><gen><sg><u>livymorph.en_inis2</u>
+> non
+<u>livymorph.irradv13</u><u>ls.n31151</u>non<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> nostra
+no result for nostra
+> nostro
+no result for nostro
+> nostrorum
+no result for nostrorum
+> novum
+no result for novum
+> nunc
+<u>livymorph.irradv14</u><u>ls.n31444</u>nunc<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> nutu
+no result for nutu
+> obiecto
+no result for obiecto
+> oborta
+no result for oborta
+> obsidentem
+no result for obsidentem
+> obsistens
+no result for obsistens
+> obsisti
+no result for obsisti
+> obstinatus
+no result for obstinatus
+> obstitit
+no result for obstitit
+> obstupefecit
+no result for obstupefecit
+> obtestans
+no result for obtestans
+> obtineret
+no result for obtineret
+> obversis
+no result for obversis
+> occasionem
+<u>livymorph.n79</u><u>ls.n32063</u>occasi<noun><fem><o_onis><div><o_onis><noun>onem<fem><acc><sg><u>livymorph.o_onis4</u>
+> oculos
+<u>livymorph.n78</u><u>ls.n32239</u>ocul<noun><masc><us_i><div><us_i><noun>os<masc><nom><sg><u>livymorph.us_i1b</u>
+<u>livymorph.n78</u><u>ls.n32239</u>ocul<noun><masc><us_i><div><us_i><noun>os<masc><acc><pl><u>livymorph.us_i9</u>
+> odio
+<u>livymorph.n77</u><u>ls.n32268</u>odi<noun><neut><us_i><div><us_i><noun>o<neut><dat><sg><u>livymorph.us_i15</u>
+<u>livymorph.n77</u><u>ls.n32268</u>odi<noun><neut><us_i><div><us_i><noun>o<neut><abl><sg><u>livymorph.us_i17</u>
+> odium
+<u>livymorph.n77</u><u>ls.n32268</u>odi<noun><neut><us_i><div><us_i><noun>um<neut><nom><sg><u>livymorph.us_i13</u>
+<u>livymorph.n77</u><u>ls.n32268</u>odi<noun><neut><us_i><div><us_i><noun>um<neut><acc><sg><u>livymorph.us_i16</u>
+<u>livymorph.n77</u><u>ls.n32268</u>odi<noun><neut><us_i><div><us_i><noun>um<neut><voc><sg><u>livymorph.us_i23</u>
+> omnes
+<u>livymorph.adj1</u><u>ls.n32583</u>omn<adj><is_e><div><is_e><adj>es<masc><nom><pl><pos><u>livymorph.is_e6</u>
+<u>livymorph.adj1</u><u>ls.n32583</u>omn<adj><is_e><div><is_e><adj>es<masc><acc><pl><pos><u>livymorph.is_e9</u>
+<u>livymorph.adj1</u><u>ls.n32583</u>omn<adj><is_e><div><is_e><adj>es<masc><voc><pl><pos><u>livymorph.is_e12</u>
+<u>livymorph.adj1</u><u>ls.n32583</u>omn<adj><is_e><div><is_e><adj>es<fem><nom><pl><pos><u>livymorph.is_e42</u>
+<u>livymorph.adj1</u><u>ls.n32583</u>omn<adj><is_e><div><is_e><adj>es<fem><acc><pl><pos><u>livymorph.is_e45</u>
+<u>livymorph.adj1</u><u>ls.n32583</u>omn<adj><is_e><div><is_e><adj>es<fem><voc><pl><pos><u>livymorph.is_e48</u>
+> omni
+<u>livymorph.adj1</u><u>ls.n32583</u>omn<adj><is_e><div><is_e><adj>i<masc><dat><sg><pos><u>livymorph.is_e3</u>
+<u>livymorph.adj1</u><u>ls.n32583</u>omn<adj><is_e><div><is_e><adj>i<masc><abl><sg><pos><u>livymorph.is_e5</u>
+<u>livymorph.adj1</u><u>ls.n32583</u>omn<adj><is_e><div><is_e><adj>i<fem><dat><sg><pos><u>livymorph.is_e39</u>
+<u>livymorph.adj1</u><u>ls.n32583</u>omn<adj><is_e><div><is_e><adj>i<fem><abl><sg><pos><u>livymorph.is_e41</u>
+<u>livymorph.adj1</u><u>ls.n32583</u>omn<adj><is_e><div><is_e><adj>i<neut><dat><sg><pos><u>livymorph.is_e77</u>
+<u>livymorph.adj1</u><u>ls.n32583</u>omn<adj><is_e><div><is_e><adj>i<neut><abl><sg><pos><u>livymorph.is_e79</u>
+> opem
+<u>livymorph.n80</u><u>ls.n32834</u>op<noun><fem><s_is><div><s_is><noun>em<fem><acc><sg><u>livymorph.s_is16</u>
+> operae
+<u>livymorph.n82</u><u>ls.n32660</u>oper<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>livymorph.a_ae6</u>
+<u>livymorph.n82</u><u>ls.n32660</u>oper<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>livymorph.a_ae2</u>
+<u>livymorph.n82</u><u>ls.n32660</u>oper<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>livymorph.a_ae3</u>
+<u>livymorph.n82</u><u>ls.n32660</u>oper<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>livymorph.a_ae12</u>
+> operis
+<u>livymorph.n82</u><u>ls.n32660</u>oper<noun><fem><a_ae><div><a_ae><noun>is<fem><dat><pl><u>livymorph.a_ae8</u>
+<u>livymorph.n82</u><u>ls.n32660</u>oper<noun><fem><a_ae><div><a_ae><noun>is<fem><abl><pl><u>livymorph.a_ae10</u>
+<u>livymorph.n81</u><u>ls.n32865</u>op<noun><neut><us_eris><div><us_eris><noun>eris<neut><gen><sg><u>livymorph.us_eris2</u>
+> operosam
+no result for operosam
+> opes
+<u>livymorph.n80</u><u>ls.n32834</u>op<noun><fem><s_is><div><s_is><noun>es<fem><nom><pl><u>livymorph.s_is18</u>
+<u>livymorph.n80</u><u>ls.n32834</u>op<noun><fem><s_is><div><s_is><noun>es<fem><acc><pl><u>livymorph.s_is21</u>
+<u>livymorph.n80</u><u>ls.n32834</u>op<noun><fem><s_is><div><s_is><noun>es<fem><voc><pl><u>livymorph.s_is24</u>
+> oppidanorum
+no result for oppidanorum
+> oppidanos
+no result for oppidanos
+> oppido
+<u>livymorph.n83</u><u>ls.n32796</u>oppid<noun><neut><us_i><div><us_i><noun>o<neut><dat><sg><u>livymorph.us_i15</u>
+<u>livymorph.n83</u><u>ls.n32796</u>oppid<noun><neut><us_i><div><us_i><noun>o<neut><abl><sg><u>livymorph.us_i17</u>
+> oppidum
+<u>livymorph.n83</u><u>ls.n32796</u>oppid<noun><neut><us_i><div><us_i><noun>um<neut><nom><sg><u>livymorph.us_i13</u>
+<u>livymorph.n83</u><u>ls.n32796</u>oppid<noun><neut><us_i><div><us_i><noun>um<neut><acc><sg><u>livymorph.us_i16</u>
+<u>livymorph.n83</u><u>ls.n32796</u>oppid<noun><neut><us_i><div><us_i><noun>um<neut><voc><sg><u>livymorph.us_i23</u>
+> oppugnatum
+no result for oppugnatum
+> ordines
+<u>livymorph.n84</u><u>ls.n32947</u>ord<noun><masc><o_inis><div><o_inis><noun>ines<masc><nom><pl><u>livymorph.o_inis6</u>
+<u>livymorph.n84</u><u>ls.n32947</u>ord<noun><masc><o_inis><div><o_inis><noun>ines<masc><acc><pl><u>livymorph.o_inis9</u>
+<u>livymorph.n84</u><u>ls.n32947</u>ord<noun><masc><o_inis><div><o_inis><noun>ines<masc><voc><pl><u>livymorph.o_inis12</u>
+> ordinis
+<u>livymorph.n84</u><u>ls.n32947</u>ord<noun><masc><o_inis><div><o_inis><noun>inis<masc><gen><sg><u>livymorph.o_inis2</u>
+> ore
+<u>livymorph.n86</u><u>ls.n33093</u>o<noun><neut><s_ris><div><s_ris><noun>re<neut><abl><sg><u>livymorph.s_ris29</u>
+> origine
+<u>livymorph.n85</u><u>ls.n32994</u>orig<noun><fem><o_inis><div><o_inis><noun>ine<fem><abl><sg><u>livymorph.o_inis17</u>
+> ortae
+no result for ortae
+> orto
+no result for orto
+> ortum
+no result for ortum
+> paene
+<u>livymorph.irradv32</u><u>ls.n33358</u>paene<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> palatio
+no result for palatio
+> papirium
+no result for papirium
+> pariter
+no result for pariter
+> parte
+<u>livymorph.n48</u><u>ls.n33930</u>par<noun><fem><s_tis><div><s_tis><noun>te<fem><abl><sg><u>livymorph.s_tis17</u>
+> parum
+<u>livymorph.irradv33</u><u>ls.n33992</u>parum<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> parumper
+<u>livymorph.irradv34</u><u>ls.n33993</u>parumper<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> parva
+no result for parva
+> parvam
+no result for parvam
+> parvis
+no result for parvis
+> patentem
+no result for patentem
+> patientia
+<u>livymorph.n49</u><u>ls.n34115</u>patienti<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>livymorph.a_ae1</u>
+<u>livymorph.n49</u><u>ls.n34115</u>patienti<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>livymorph.a_ae5</u>
+<u>livymorph.n49</u><u>ls.n34115</u>patienti<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>livymorph.a_ae11</u>
+> patres
+<u>livymorph.n51</u><u>ls.n34096</u>pat<noun><masc><er_ris><div><er_ris><noun>res<masc><nom><pl><u>livymorph.er_ris6</u>
+<u>livymorph.n51</u><u>ls.n34096</u>pat<noun><masc><er_ris><div><er_ris><noun>res<masc><acc><pl><u>livymorph.er_ris9</u>
+<u>livymorph.n51</u><u>ls.n34096</u>pat<noun><masc><er_ris><div><er_ris><noun>res<masc><voc><pl><u>livymorph.er_ris12</u>
+> patriae
+<u>livymorph.n50</u><u>ls.n34131</u>patri<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>livymorph.a_ae6</u>
+<u>livymorph.n50</u><u>ls.n34131</u>patri<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>livymorph.a_ae2</u>
+<u>livymorph.n50</u><u>ls.n34131</u>patri<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>livymorph.a_ae3</u>
+<u>livymorph.n50</u><u>ls.n34131</u>patri<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>livymorph.a_ae12</u>
+> patribus
+<u>livymorph.n51</u><u>ls.n34096</u>pat<noun><masc><er_ris><div><er_ris><noun>ribus<masc><dat><pl><u>livymorph.er_ris8</u>
+<u>livymorph.n51</u><u>ls.n34096</u>pat<noun><masc><er_ris><div><er_ris><noun>ribus<masc><abl><pl><u>livymorph.er_ris10</u>
+> patricii
+no result for patricii
+> patrum
+<u>livymorph.n51</u><u>ls.n34096</u>pat<noun><masc><er_ris><div><er_ris><noun>rum<masc><gen><pl><u>livymorph.er_ris7</u>
+> pavor
+<u>livymorph.n88</u><u>ls.n34248</u>pavor<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>livymorph.0_is1</u>
+<u>livymorph.n88</u><u>ls.n34248</u>pavor<noun><masc><0_is><div><0_is><noun><masc><voc><sg><u>livymorph.0_is11</u>
+> pavore
+<u>livymorph.n88</u><u>ls.n34248</u>pavor<noun><masc><0_is><div><0_is><noun>e<masc><abl><sg><u>livymorph.0_is5</u>
+> penes
+no result for penes
+> per
+<u>livymorph.indecl28</u><u>ls.n34595</u>per<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> percipiebantur
+no result for percipiebantur
+> perculit
+no result for perculit
+> peregrinum
+no result for peregrinum
+> perfecti
+no result for perfecti
+> periculi
+<u>livymorph.n89</u><u>ls.n35048</u>pericul<noun><neut><us_i><div><us_i><noun>i<neut><gen><sg><u>livymorph.us_i14</u>
+> peropportune
+no result for peropportune
+> persecutus
+no result for persecutus
+> perseveratum
+no result for perseveratum
+> pestilentia
+no result for pestilentia
+> peti
+no result for peti
+> plebei
+no result for plebei
+> plebem
+<u>livymorph.n13</u><u>ls.n26431</u>pleb<noun><fem><s_is><div><s_is><noun>em<fem><acc><sg><u>livymorph.s_is16</u>
+> plebi
+<u>livymorph.n13</u><u>ls.n26431</u>pleb<noun><fem><s_is><div><s_is><noun>i<fem><dat><sg><u>livymorph.s_is15</u>
+<u>livymorph.n13</u><u>ls.n26431</u>pleb<noun><fem><s_is><div><s_is><noun>i<fem><abl><sg><u>livymorph.s_is17b</u>
+> plebis
+<u>livymorph.n13</u><u>ls.n26431</u>pleb<noun><fem><s_is><div><s_is><noun>is<fem><acc><pl><u>livymorph.s_is21b</u>
+<u>livymorph.n13</u><u>ls.n26431</u>pleb<noun><fem><s_is><div><s_is><noun>is<fem><gen><sg><u>livymorph.s_is14</u>
+> plebs
+<u>livymorph.n13</u><u>ls.n26431</u>pleb<noun><fem><s_is><div><s_is><noun>s<fem><nom><sg><u>livymorph.s_is13</u>
+<u>livymorph.n13</u><u>ls.n26431</u>pleb<noun><fem><s_is><div><s_is><noun>s<fem><voc><sg><u>livymorph.s_is23</u>
+> ploratu
+no result for ploratu
+> plures
+no result for plures
+> plus
+<u>livymorph.irradv15</u><u>ls.n29945</u>plus<comp><irregadv><div><irregadv><u>irreginfl.2</u>
+> poena
+<u>livymorph.n21</u><u>ls.n36788</u>poen<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>livymorph.a_ae1</u>
+<u>livymorph.n21</u><u>ls.n36788</u>poen<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>livymorph.a_ae5</u>
+<u>livymorph.n21</u><u>ls.n36788</u>poen<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>livymorph.a_ae11</u>
+> poenae
+<u>livymorph.n21</u><u>ls.n36788</u>poen<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>livymorph.a_ae6</u>
+<u>livymorph.n21</u><u>ls.n36788</u>poen<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>livymorph.a_ae2</u>
+<u>livymorph.n21</u><u>ls.n36788</u>poen<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>livymorph.a_ae3</u>
+<u>livymorph.n21</u><u>ls.n36788</u>poen<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>livymorph.a_ae12</u>
+> poluscam
+no result for poluscam
+> pons
+<u>livymorph.n18</u><u>ls.n37011</u>pon<noun><masc><s_tis><div><s_tis><noun>s<masc><nom><sg><u>livymorph.s_tis1</u>
+<u>livymorph.n18</u><u>ls.n37011</u>pon<noun><masc><s_tis><div><s_tis><noun>s<masc><voc><sg><u>livymorph.s_tis11</u>
+> pontem
+<u>livymorph.n18</u><u>ls.n37011</u>pon<noun><masc><s_tis><div><s_tis><noun>tem<masc><acc><sg><u>livymorph.s_tis4</u>
+> pontis
+<u>livymorph.n18</u><u>ls.n37011</u>pon<noun><masc><s_tis><div><s_tis><noun>tis<masc><acc><pl><u>livymorph.s_tis9b</u>
+<u>livymorph.n18</u><u>ls.n37011</u>pon<noun><masc><s_tis><div><s_tis><noun>tis<masc><gen><sg><u>livymorph.s_tis2</u>
+> populi
+<u>livymorph.n14</u><u>ls.n37077</u>popul<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>livymorph.us_i6</u>
+<u>livymorph.n14</u><u>ls.n37077</u>popul<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>livymorph.us_i2</u>
+<u>livymorph.n14</u><u>ls.n37077</u>popul<noun><masc><us_i><div><us_i><noun>i<masc><voc><pl><u>livymorph.us_i12</u>
+> populis
+<u>livymorph.n14</u><u>ls.n37077</u>popul<noun><masc><us_i><div><us_i><noun>is<masc><dat><pl><u>livymorph.us_i8</u>
+<u>livymorph.n14</u><u>ls.n37077</u>popul<noun><masc><us_i><div><us_i><noun>is<masc><abl><pl><u>livymorph.us_i10</u>
+> populo
+<u>livymorph.n14</u><u>ls.n37077</u>popul<noun><masc><us_i><div><us_i><noun>o<masc><dat><sg><u>livymorph.us_i3</u>
+<u>livymorph.n14</u><u>ls.n37077</u>popul<noun><masc><us_i><div><us_i><noun>o<masc><abl><sg><u>livymorph.us_i5</u>
+> populorum
+<u>livymorph.n14</u><u>ls.n37077</u>popul<noun><masc><us_i><div><us_i><noun>orum<masc><gen><pl><u>livymorph.us_i7</u>
+> populus
+<u>livymorph.n14</u><u>ls.n37077</u>popul<noun><masc><us_i><div><us_i><noun>us<masc><nom><sg><u>livymorph.us_i1</u>
+> portam
+<u>livymorph.n52</u><u>ls.n37124</u>port<noun><fem><a_ae><div><a_ae><noun>am<fem><acc><sg><u>livymorph.a_ae4</u>
+> posita
+no result for posita
+> positus
+no result for positus
+> posse
+no result for posse
+> possent
+<u>livymorph.irrv48</u><u>lexent.n37193</u><#>possent<3rd><pl><impft><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> posset
+<u>livymorph.irrv45</u><u>lexent.n37193</u><#>posset<3rd><sg><impft><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> possint
+<u>livymorph.irrv42</u><u>lexent.n37193</u><#>possint<3rd><pl><pres><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> post
+<u>livymorph.indecl29</u><u>ls.n37194</u>post<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> postea
+no result for postea
+> posteros
+no result for posteros
+> postremo
+no result for postremo
+> postumum
+no result for postumum
+> postumus
+no result for postumus
+> poterat
+<u>livymorph.irrv9</u><u>lexent.n37193</u><#>poterat<3rd><sg><impft><indic><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> potestati
+<u>livymorph.n90</u><u>ls.n37292</u>potes<noun><fem><tas_tatis><div><tas_tatis><noun>tati<fem><dat><sg><u>livymorph.tas_tatis3</u>
+> potitur
+no result for potitur
+> praecavendum
+no result for praecavendum
+> praecones
+no result for praecones
+> praedicere
+no result for praedicere
+> praeessent
+no result for praeessent
+> praefecit
+no result for praefecit
+> praesens
+no result for praesens
+> praesidiis
+no result for praesidiis
+> praesidio
+no result for praesidio
+> precor
+no result for precor
+> primam
+no result for primam
+> primo
+no result for primo
+> primores
+no result for primores
+> primoribus
+no result for primoribus
+> primum
+no result for primum
+> princeps
+no result for princeps
+> prius
+<u>livymorph.irradv16</u><u>ls.n38365</u>prius<comp><irregadv><div><irregadv><u>irreginfl.2</u>
+> priusquam
+no result for priusquam
+> privata
+no result for privata
+> privatorum
+no result for privatorum
+> pro
+<u>livymorph.indecl30</u><u>ls.n38383</u>pro<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> procellam
+no result for procellam
+> proceres
+no result for proceres
+> procurationem
+no result for procurationem
+> proelium
+no result for proelium
+> profectae
+no result for profectae
+> proficiscentibus
+no result for proficiscentibus
+> proficisci
+no result for proficisci
+> promptus
+no result for promptus
+> prope
+<u>livymorph.indecl31</u><u>ls.n38866</u>prope<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> propitio
+no result for propitio
+> proprio
+no result for proprio
+> protinus
+no result for protinus
+> provocare
+no result for provocare
+> proxima
+no result for proxima
+> publica
+no result for publica
+> publicorum
+no result for publicorum
+> publicos
+no result for publicos
+> pudor
+<u>livymorph.n91</u><u>ls.n39417</u>pudor<noun><masc><0_is><div><0_is><noun><masc><nom><sg><u>livymorph.0_is1</u>
+<u>livymorph.n91</u><u>ls.n39417</u>pudor<noun><masc><0_is><div><0_is><noun><masc><voc><sg><u>livymorph.0_is11</u>
+> puerili
+no result for puerili
+> pugnae
+<u>livymorph.n53</u><u>ls.n39465</u>pugn<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>livymorph.a_ae6</u>
+<u>livymorph.n53</u><u>ls.n39465</u>pugn<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>livymorph.a_ae2</u>
+<u>livymorph.n53</u><u>ls.n39465</u>pugn<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>livymorph.a_ae3</u>
+<u>livymorph.n53</u><u>ls.n39465</u>pugn<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>livymorph.a_ae12</u>
+> qua
+<u>livymorph.irrpqui15</u><u>ls.n40103</u>qua<fem><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> quacumque
+no result for quacumque
+> quae
+<u>livymorph.irrpquis29</u><u>ls.n40242</u>quae<neut><acc><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis26</u><u>ls.n40242</u>quae<neut><nom><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis16</u><u>ls.n40242</u>quae<fem><nom><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui29</u><u>ls.n40103</u>quae<neut><acc><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui26</u><u>ls.n40103</u>quae<neut><nom><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui16</u><u>ls.n40103</u>quae<fem><nom><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui11</u><u>ls.n40103</u>quae<fem><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> quam
+<u>livymorph.irrpqui14</u><u>ls.n40103</u>quam<fem><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> quamquam
+no result for quamquam
+> quantum
+no result for quantum
+> querellae
+no result for querellae
+> qui
+<u>livymorph.irrpquis6</u><u>ls.n40242</u>qui<masc><nom><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui6</u><u>ls.n40103</u>qui<masc><nom><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui1</u><u>ls.n40103</u>qui<masc><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> quia
+<u>livymorph.indecl16</u><u>ls.n40105</u>quia<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> quibus
+<u>livymorph.irrpquis8</u><u>ls.n40242</u>quibus<masc><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis30</u><u>ls.n40242</u>quibus<neut><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis28</u><u>ls.n40242</u>quibus<neut><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis20</u><u>ls.n40242</u>quibus<fem><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis18</u><u>ls.n40242</u>quibus<fem><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis10</u><u>ls.n40242</u>quibus<masc><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui8</u><u>ls.n40103</u>quibus<masc><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui30</u><u>ls.n40103</u>quibus<neut><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui28</u><u>ls.n40103</u>quibus<neut><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui20</u><u>ls.n40103</u>quibus<fem><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui18</u><u>ls.n40103</u>quibus<fem><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui10</u><u>ls.n40103</u>quibus<masc><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+> quicquam
+no result for quicquam
+> quid
+<u>livymorph.irrpquis24</u><u>ls.n40242</u>quid<neut><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis21</u><u>ls.n40242</u>quid<neut><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> quinctio
+no result for quinctio
+> quintum
+no result for quintum
+> quippe
+<u>livymorph.irradv17</u><u>ls.n40225</u>quippe<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> quisque
+<u>livymorph.irrpquisque11</u><u>lexent.n40248</u>quisque<fem><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquisque1</u><u>lexent.n40248</u>quisque<masc><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> quo
+<u>livymorph.irrpquis5</u><u>ls.n40242</u>quo<masc><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis25</u><u>ls.n40242</u>quo<neut><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis15</u><u>ls.n40242</u>quo<fem><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui5</u><u>ls.n40103</u>quo<masc><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui25</u><u>ls.n40103</u>quo<neut><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> quod
+<u>livymorph.irrpqui24</u><u>ls.n40103</u>quod<neut><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui21</u><u>ls.n40103</u>quod<neut><nom><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> quodam
+no result for quodam
+> quoque
+<u>livymorph.indecl17</u><u>ls.n40282</u>quoque<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+<u>livymorph.irrpquisque5</u><u>lexent.n40248</u>quoque<masc><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquisque25</u><u>lexent.n40248</u>quoque<neut><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquisque15</u><u>lexent.n40248</u>quoque<fem><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> quorum
+<u>livymorph.irrpquis7</u><u>ls.n40242</u>quorum<masc><gen><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpquis27</u><u>ls.n40242</u>quorum<neut><gen><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui7</u><u>ls.n40103</u>quorum<masc><gen><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui27</u><u>ls.n40103</u>quorum<neut><gen><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+> quos
+<u>livymorph.irrpquis9</u><u>ls.n40242</u>quos<masc><acc><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpqui9</u><u>ls.n40103</u>quos<masc><acc><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+> rapi
+no result for rapi
+> rati
+no result for rati
+> ratus
+no result for ratus
+> re
+<u>livymorph.n34</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>e<fem><gen><sg><u>livymorph.es_ei2b</u>
+<u>livymorph.n34</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>e<fem><dat><sg><u>livymorph.es_ei3b</u>
+<u>livymorph.n34</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>e<fem><abl><sg><u>livymorph.es_ei5</u>
+> rebus
+<u>livymorph.n34</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>ebus<fem><dat><pl><u>livymorph.es_ei8</u>
+<u>livymorph.n34</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>ebus<fem><abl><pl><u>livymorph.es_ei10</u>
+> recens
+no result for recens
+> recenti
+no result for recenti
+> reductori
+no result for reductori
+> regimen
+no result for regimen
+> regum
+no result for regum
+> rei
+<u>livymorph.n34</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>ei<fem><gen><sg><u>livymorph.es_ei2</u>
+<u>livymorph.n34</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>ei<fem><dat><sg><u>livymorph.es_ei3</u>
+> relicta
+no result for relicta
+> relinquere
+no result for relinquere
+> reliquissent
+no result for reliquissent
+> rem
+<u>livymorph.n34</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>em<fem><acc><sg><u>livymorph.es_ei4</u>
+> remotis
+no result for remotis
+> reos
+no result for reos
+> repentino
+no result for repentino
+> reprehensans
+no result for reprehensans
+> res
+<u>livymorph.n34</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>es<fem><nom><sg><u>livymorph.es_ei1</u>
+<u>livymorph.n34</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>es<fem><nom><pl><u>livymorph.es_ei6</u>
+<u>livymorph.n34</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>es<fem><acc><pl><u>livymorph.es_ei9</u>
+<u>livymorph.n34</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>es<fem><voc><sg><u>livymorph.es_ei11</u>
+<u>livymorph.n34</u><u>ls.n41293</u>r<noun><fem><es_ei><div><es_ei><noun>es<fem><voc><pl><u>livymorph.es_ei12</u>
+> rescindebant
+no result for rescindebant
+> restiterunt
+no result for restiterunt
+> retudit
+no result for retudit
+> revocantibus
+no result for revocantibus
+> romae
+no result for romae
+> romanae
+no result for romanae
+> romani
+no result for romani
+> romanis
+no result for romanis
+> romanis
+no result for romanis
+> romano
+no result for romano
+> romanorum
+no result for romanorum
+> romanum
+no result for romanum
+> rupti
+no result for rupti
+> sabinorum
+no result for sabinorum
+> sacratam
+no result for sacratam
+> sacro
+no result for sacro
+> sacrosancti
+no result for sacrosancti
+> saepe
+<u>livymorph.irradv39</u><u>ls.n42211</u>saepe<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> saepiunt
+no result for saepiunt
+> sancte
+no result for sancte
+> sane
+no result for sane
+> satisfiat
+no result for satisfiat
+> scribarum
+no result for scribarum
+> scuto
+no result for scuto
+> se
+<u>livymorph.irrpsui8</u><u>lexent.n46498</u>se<fem><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui7</u><u>lexent.n46498</u>se<fem><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui4</u><u>lexent.n46498</u>se<masc><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui3</u><u>lexent.n46498</u>se<masc><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui24</u><u>lexent.n46498</u>se<neut><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui23</u><u>lexent.n46498</u>se<neut><acc><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui20</u><u>lexent.n46498</u>se<fem><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui19</u><u>lexent.n46498</u>se<fem><acc><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui16</u><u>lexent.n46498</u>se<masc><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui15</u><u>lexent.n46498</u>se<masc><acc><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui12</u><u>lexent.n46498</u>se<neut><abl><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui11</u><u>lexent.n46498</u>se<neut><acc><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> secessionem
+<u>livymorph.n106</u><u>ls.n43223</u>secessi<noun><fem><o_onis><div><o_onis><noun>onem<fem><acc><sg><u>livymorph.o_onis4</u>
+> secreto
+no result for secreto
+> sed
+<u>livymorph.indecl18</u><u>ls.n43291</u>sed<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> seditionis
+<u>livymorph.n92</u><u>ls.n43312</u>sediti<noun><fem><o_onis><div><o_onis><noun>onis<fem><gen><sg><u>livymorph.o_onis2</u>
+> semper
+<u>livymorph.irradv18</u><u>ls.n43600</u>semper<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> sempronium
+no result for sempronium
+> senatorem
+no result for senatorem
+> senatu
+<u>livymorph.n93</u><u>ls.n43622</u>senat<noun><masc><us_us><div><us_us><noun>u<masc><dat><sg><u>livymorph.us_us3b</u>
+<u>livymorph.n93</u><u>ls.n43622</u>senat<noun><masc><us_us><div><us_us><noun>u<masc><abl><sg><u>livymorph.us_us5</u>
+> senatui
+<u>livymorph.n93</u><u>ls.n43622</u>senat<noun><masc><us_us><div><us_us><noun>ui<masc><dat><sg><u>livymorph.us_us3</u>
+> senatum
+<u>livymorph.n93</u><u>ls.n43622</u>senat<noun><masc><us_us><div><us_us><noun>um<masc><acc><sg><u>livymorph.us_us4</u>
+> senatus
+<u>livymorph.n93</u><u>ls.n43622</u>senat<noun><masc><us_us><div><us_us><noun>us<masc><nom><sg><u>livymorph.us_us1</u>
+<u>livymorph.n93</u><u>ls.n43622</u>senat<noun><masc><us_us><div><us_us><noun>us<masc><nom><pl><u>livymorph.us_us6</u>
+<u>livymorph.n93</u><u>ls.n43622</u>senat<noun><masc><us_us><div><us_us><noun>us<masc><acc><pl><u>livymorph.us_us9</u>
+<u>livymorph.n93</u><u>ls.n43622</u>senat<noun><masc><us_us><div><us_us><noun>us<masc><gen><sg><u>livymorph.us_us2</u>
+<u>livymorph.n93</u><u>ls.n43622</u>senat<noun><masc><us_us><div><us_us><noun>us<masc><voc><sg><u>livymorph.us_us11</u>
+<u>livymorph.n93</u><u>ls.n43622</u>senat<noun><masc><us_us><div><us_us><noun>us<masc><voc><pl><u>livymorph.us_us12</u>
+> sensimus
+no result for sensimus
+> sententia
+<u>livymorph.n94</u><u>ls.n43666</u>sententi<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>livymorph.a_ae1</u>
+<u>livymorph.n94</u><u>ls.n43666</u>sententi<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>livymorph.a_ae5</u>
+<u>livymorph.n94</u><u>ls.n43666</u>sententi<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>livymorph.a_ae11</u>
+> sequius
+no result for sequius
+> servire
+no result for servire
+> servitia
+<u>livymorph.n95</u><u>ls.n43941</u>serviti<noun><neut><us_i><div><us_i><noun>a<neut><nom><pl><u>livymorph.us_i18</u>
+<u>livymorph.n95</u><u>ls.n43941</u>serviti<noun><neut><us_i><div><us_i><noun>a<neut><acc><pl><u>livymorph.us_i21</u>
+<u>livymorph.n95</u><u>ls.n43941</u>serviti<noun><neut><us_i><div><us_i><noun>a<neut><voc><pl><u>livymorph.us_i24</u>
+> seu
+no result for seu
+> sextantibus
+no result for sextantibus
+> si
+<u>livymorph.indecl32</u><u>ls.n44096</u>si<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> sibi
+<u>livymorph.irrpsui6</u><u>lexent.n46498</u>sibi<fem><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui22</u><u>lexent.n46498</u>sibi<neut><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui2</u><u>lexent.n46498</u>sibi<masc><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui18</u><u>lexent.n46498</u>sibi<fem><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui14</u><u>lexent.n46498</u>sibi<masc><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui10</u><u>lexent.n46498</u>sibi<neut><dat><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+> sicinium
+no result for sicinium
+> sicut
+<u>livymorph.irradv19</u><u>ls.n44335</u>sicut<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> simul
+<u>livymorph.irradv40</u><u>ls.n44335</u>simul<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> simus
+<u>livymorph.irrv40</u><u>lexent.n46529</u><#>simus<1st><pl><pres><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> sine
+<u>livymorph.indecl32</u><u>ls.n44372</u>sine<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> singulos
+no result for singulos
+> sit
+<u>livymorph.irrv39</u><u>lexent.n46529</u><#>sit<3rd><sg><pres><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> sola
+no result for sola
+> solet
+no result for solet
+> solidum
+no result for solidum
+> speciosi
+no result for speciosi
+> spectaculo
+<u>livymorph.n97</u><u>ls.n44923</u>spectacul<noun><neut><us_i><div><us_i><noun>o<neut><dat><sg><u>livymorph.us_i15</u>
+<u>livymorph.n97</u><u>ls.n44923</u>spectacul<noun><neut><us_i><div><us_i><noun>o<neut><abl><sg><u>livymorph.us_i17</u>
+> spiritus
+<u>livymorph.n96</u><u>ls.n45053</u>spirit<noun><masc><us_us><div><us_us><noun>us<masc><nom><sg><u>livymorph.us_us1</u>
+<u>livymorph.n96</u><u>ls.n45053</u>spirit<noun><masc><us_us><div><us_us><noun>us<masc><nom><pl><u>livymorph.us_us6</u>
+<u>livymorph.n96</u><u>ls.n45053</u>spirit<noun><masc><us_us><div><us_us><noun>us<masc><acc><pl><u>livymorph.us_us9</u>
+<u>livymorph.n96</u><u>ls.n45053</u>spirit<noun><masc><us_us><div><us_us><noun>us<masc><gen><sg><u>livymorph.us_us2</u>
+<u>livymorph.n96</u><u>ls.n45053</u>spirit<noun><masc><us_us><div><us_us><noun>us<masc><voc><sg><u>livymorph.us_us11</u>
+<u>livymorph.n96</u><u>ls.n45053</u>spirit<noun><masc><us_us><div><us_us><noun>us<masc><voc><pl><u>livymorph.us_us12</u>
+> spretus
+no result for spretus
+> statione
+no result for statione
+> statua
+<u>livymorph.n98</u><u>ls.n45284</u>statu<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>livymorph.a_ae1</u>
+<u>livymorph.n98</u><u>ls.n45284</u>statu<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>livymorph.a_ae5</u>
+<u>livymorph.n98</u><u>ls.n45284</u>statu<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>livymorph.a_ae11</u>
+> stimularet
+no result for stimularet
+> studia
+<u>livymorph.n99</u><u>ls.n45654</u>studi<noun><neut><us_i><div><us_i><noun>a<neut><nom><pl><u>livymorph.us_i18</u>
+<u>livymorph.n99</u><u>ls.n45654</u>studi<noun><neut><us_i><div><us_i><noun>a<neut><acc><pl><u>livymorph.us_i21</u>
+<u>livymorph.n99</u><u>ls.n45654</u>studi<noun><neut><us_i><div><us_i><noun>a<neut><voc><pl><u>livymorph.us_i24</u>
+> sua
+no result for sua
+> suae
+no result for suae
+> suam
+no result for suam
+> suas
+no result for suas
+> sub
+<u>livymorph.indecl1</u><u>ls.n45746</u>sub<indeclprep><div><indeclprep><u>indeclinfl.1</u>
+> subiceretur
+no result for subiceretur
+> subito
+<u>livymorph.irradv20</u><u>ls.n45904</u>subito<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> sublato
+no result for sublato
+> sublatus
+no result for sublatus
+> sublicius
+no result for sublicius
+> suffectos
+no result for suffectos
+> suffragiis
+no result for suffragiis
+> sui
+<u>livymorph.irrpsui9</u><u>lexent.n46498</u>sui<neut><gen><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui5</u><u>lexent.n46498</u>sui<fem><gen><sg><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui21</u><u>lexent.n46498</u>sui<neut><gen><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui17</u><u>lexent.n46498</u>sui<fem><gen><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrpsui13</u><u>lexent.n46498</u>sui<masc><gen><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+> suis
+no result for suis
+> sum
+<u>livymorph.irrv1</u><u>lexent.n46529</u><#>sum<1st><sg><pres><indic><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> sumptus
+no result for sumptus
+> sunt
+<u>livymorph.irrv6</u><u>lexent.n46529</u><#>sunt<3rd><pl><pres><indic><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> suo
+no result for suo
+> suorum
+no result for suorum
+> suos
+no result for suos
+> superborum
+no result for superborum
+> superincidentibus
+no result for superincidentibus
+> supervacuo
+no result for supervacuo
+> suppressa
+no result for suppressa
+> sustinuit
+no result for sustinuit
+> tabularum
+<u>livymorph.n100</u><u>ls.n47346</u>tabul<noun><fem><a_ae><div><a_ae><noun>arum<fem><gen><pl><u>livymorph.a_ae7</u>
+> tamen
+<u>livymorph.irradv21</u><u>ls.n47439</u>tamen<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> tantam
+no result for tantam
+> tanto
+no result for tanto
+> tantum
+no result for tantum
+> tela
+<u>livymorph.n103</u><u>ls.n47680</u>tel<noun><neut><us_i><div><us_i><noun>a<neut><nom><pl><u>livymorph.us_i18</u>
+<u>livymorph.n103</u><u>ls.n47680</u>tel<noun><neut><us_i><div><us_i><noun>a<neut><acc><pl><u>livymorph.us_i21</u>
+<u>livymorph.n103</u><u>ls.n47680</u>tel<noun><neut><us_i><div><us_i><noun>a<neut><voc><pl><u>livymorph.us_i24</u>
+> telis
+<u>livymorph.n103</u><u>ls.n47680</u>tel<noun><neut><us_i><div><us_i><noun>is<neut><dat><pl><u>livymorph.us_i20</u>
+<u>livymorph.n103</u><u>ls.n47680</u>tel<noun><neut><us_i><div><us_i><noun>is<neut><abl><pl><u>livymorph.us_i22</u>
+> temere
+no result for temere
+> tempore
+<u>livymorph.n101</u><u>ls.n47738</u>temp<noun><neut><us_oris><div><us_oris><noun>ore<neut><abl><sg><u>livymorph.us_oris5</u>
+> temptata
+no result for temptata
+> tenuit
+no result for tenuit
+> terga
+<u>livymorph.n104</u><u>ls.n47870</u>terg<noun><neut><us_i><div><us_i><noun>a<neut><nom><pl><u>livymorph.us_i18</u>
+<u>livymorph.n104</u><u>ls.n47870</u>terg<noun><neut><us_i><div><us_i><noun>a<neut><acc><pl><u>livymorph.us_i21</u>
+<u>livymorph.n104</u><u>ls.n47870</u>terg<noun><neut><us_i><div><us_i><noun>a<neut><voc><pl><u>livymorph.us_i24</u>
+> tergo
+<u>livymorph.n104</u><u>ls.n47870</u>terg<noun><neut><us_i><div><us_i><noun>o<neut><dat><sg><u>livymorph.us_i15</u>
+<u>livymorph.n104</u><u>ls.n47870</u>terg<noun><neut><us_i><div><us_i><noun>o<neut><abl><sg><u>livymorph.us_i17</u>
+> terrorem
+no result for terrorem
+> testabatur
+no result for testabatur
+> tetendere
+no result for tetendere
+> tiberi
+no result for tiberi
+> tiberim
+no result for tiberim
+> tollendas
+no result for tollendas
+> tot
+<u>livymorph.irrtot9</u><u>lexent.n48622</u>tot<fem><acc><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtot8</u><u>lexent.n48622</u>tot<fem><dat><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtot7</u><u>lexent.n48622</u>tot<fem><gen><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtot6</u><u>lexent.n48622</u>tot<fem><nom><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtot5</u><u>lexent.n48622</u>tot<masc><abl><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtot4</u><u>lexent.n48622</u>tot<masc><acc><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtot3</u><u>lexent.n48622</u>tot<masc><dat><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtot2</u><u>lexent.n48622</u>tot<masc><gen><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtot15</u><u>lexent.n48622</u>tot<neut><abl><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtot14</u><u>lexent.n48622</u>tot<neut><acc><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtot13</u><u>lexent.n48622</u>tot<neut><dat><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtot12</u><u>lexent.n48622</u>tot<neut><gen><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtot11</u><u>lexent.n48622</u>tot<neut><nom><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtot10</u><u>lexent.n48622</u>tot<fem><abl><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtot1</u><u>lexent.n48622</u>tot<masc><nom><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> totiens
+<u>livymorph.irradv22</u><u>ls.n48624</u>totiens<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> totius
+<u>livymorph.irrtotus26</u><u>lexent.n48627</u>totius<neut><gen><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtotus2</u><u>lexent.n48627</u>totius<masc><gen><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtotus14</u><u>lexent.n48627</u>totius<fem><gen><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> tranavit
+no result for tranavit
+> transitum
+no result for transitum
+> trepidam
+no result for trepidam
+> tres
+<u>livymorph.irrtres7</u><u>lexent.n48969</u>tres<fem><nom><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtres6</u><u>lexent.n48969</u>tres<masc><voc><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtres4</u><u>lexent.n48969</u>tres<masc><acc><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtres12</u><u>lexent.n48969</u>tres<fem><voc><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtres10</u><u>lexent.n48969</u>tres<fem><acc><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrtres1</u><u>lexent.n48969</u>tres<masc><nom><pl><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> tribuni
+<u>livymorph.n105</u><u>ls.n49001</u>tribun<noun><masc><us_i><div><us_i><noun>i<masc><nom><pl><u>livymorph.us_i6</u>
+<u>livymorph.n105</u><u>ls.n49001</u>tribun<noun><masc><us_i><div><us_i><noun>i<masc><gen><sg><u>livymorph.us_i2</u>
+<u>livymorph.n105</u><u>ls.n49001</u>tribun<noun><masc><us_i><div><us_i><noun>i<masc><voc><pl><u>livymorph.us_i12</u>
+> tribunicias
+no result for tribunicias
+> tribunis
+<u>livymorph.n105</u><u>ls.n49001</u>tribun<noun><masc><us_i><div><us_i><noun>is<masc><dat><pl><u>livymorph.us_i8</u>
+<u>livymorph.n105</u><u>ls.n49001</u>tribun<noun><masc><us_i><div><us_i><noun>is<masc><abl><pl><u>livymorph.us_i10</u>
+> tribunos
+<u>livymorph.n105</u><u>ls.n49001</u>tribun<noun><masc><us_i><div><us_i><noun>os<masc><nom><sg><u>livymorph.us_i1b</u>
+<u>livymorph.n105</u><u>ls.n49001</u>tribun<noun><masc><us_i><div><us_i><noun>os<masc><acc><pl><u>livymorph.us_i9</u>
+> truces
+no result for truces
+> tulli
+no result for tulli
+> tullio
+no result for tullio
+> tullius
+no result for tullius
+> tum
+<u>livymorph.irradv23</u><u>ls.n49390</u>tum<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> tumultuosissimum
+no result for tumultuosissimum
+> tunc
+<u>livymorph.irradv37</u><u>ls.n49420</u>tunc<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> turbam
+<u>livymorph.n59</u><u>ls.n49434</u>turb<noun><fem><a_ae><div><a_ae><noun>am<fem><acc><sg><u>livymorph.a_ae4</u>
+> turbavit
+no result for turbavit
+> tuta
+no result for tuta
+> tutum
+no result for tutum
+> ullo
+<u>livymorph.irrullus5</u><u>lexent.n49645</u>ullo<masc><abl><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrullus29</u><u>lexent.n49645</u>ullo<neut><abl><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> undique
+<u>livymorph.irradv35</u><u>ls.n49795</u>undique<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> unius
+<u>livymorph.irrunus26</u><u>lexent.n49871</u>unius<neut><gen><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrunus2</u><u>lexent.n49871</u>unius<masc><gen><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrunus14</u><u>lexent.n49871</u>unius<fem><gen><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> universi
+no result for universi
+> uno
+<u>livymorph.irrunus5</u><u>lexent.n49871</u>uno<masc><abl><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrunus29</u><u>lexent.n49871</u>uno<neut><abl><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> unum
+<u>livymorph.irrunus4</u><u>lexent.n49871</u>unum<masc><acc><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrunus35</u><u>lexent.n49871</u>unum<neut><voc><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrunus28</u><u>lexent.n49871</u>unum<neut><acc><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrunus25</u><u>lexent.n49871</u>unum<neut><nom><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> unus
+<u>livymorph.irrunus1</u><u>lexent.n49871</u>unus<masc><nom><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> que
+no result for que
+> urbe
+<u>livymorph.n58</u><u>ls.n49895</u>urb<noun><fem><s_is><div><s_is><noun>e<fem><abl><sg><u>livymorph.s_is17</u>
+> urbem
+<u>livymorph.n58</u><u>ls.n49895</u>urb<noun><fem><s_is><div><s_is><noun>em<fem><acc><sg><u>livymorph.s_is16</u>
+> urbis
+<u>livymorph.n58</u><u>ls.n49895</u>urb<noun><fem><s_is><div><s_is><noun>is<fem><acc><pl><u>livymorph.s_is21b</u>
+<u>livymorph.n58</u><u>ls.n49895</u>urb<noun><fem><s_is><div><s_is><noun>is<fem><gen><sg><u>livymorph.s_is14</u>
+> usi
+no result for usi
+> ut
+<u>livymorph.indecl33</u><u>ls.n49975</u>ut<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> utebatur
+no result for utebatur
+> utpote
+<u>livymorph.irradv24</u><u>ls.n50003</u>utpote<pos><irregadv><div><irregadv><u>irreginfl.2</u>
+> vadit
+no result for vadit
+> vectigalia
+no result for vectigalia
+> vel
+<u>livymorph.indecl34</u><u>ls.n50326</u>vel<indeclconj><div><indeclconj><u>indeclinfl.2</u>
+> velit
+<u>livymorph.irrvvolo39</u><u>lexent.n51298</u><#>velit<3rd><sg><pres><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> vellem
+<u>livymorph.irrvvolo43</u><u>lexent.n51298</u><#>vellem<1st><sg><impft><subj><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> venerant
+no result for venerant
+> venientem
+no result for venientem
+> venio
+no result for venio
+> venire
+no result for venire
+> venit
+no result for venit
+> vestra
+no result for vestra
+> vestra
+no result for vestra
+> vetus
+<u>livymorph.irrvetus35</u><u>lexent.n2015</u>vetus<neut><voc><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrvetus28</u><u>lexent.n2015</u>vetus<neut><acc><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrvetus25</u><u>lexent.n2015</u>vetus<neut><nom><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrvetus23</u><u>lexent.n2015</u>vetus<fem><voc><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrvetus13</u><u>lexent.n2015</u>vetus<fem><nom><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrvetus11</u><u>lexent.n2015</u>vetus<masc><voc><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+<u>livymorph.irrvetus1</u><u>lexent.n2015</u>vetus<masc><nom><sg><pos><irregadj><div><irregadj><u>irreginfl.1</u>
+> vetustate
+<u>livymorph.n57</u><u>ls.n50775</u>vetus<noun><fem><tas_tatis><div><tas_tatis><noun>tate<fem><abl><sg><u>livymorph.tas_tatis5</u>
+> vi
+<u>livymorph.irrnvis5</u><u>lexent.n51113</u>vi<fem><abl><sg><irregnoun><div><irregnoun><u>irreginfl.0</u>
+<u>livymorph.irrnvis3</u><u>lexent.n51113</u>vi<fem><dat><sg><irregnoun><div><irregnoun><u>irreginfl.0</u>
+> victu
+no result for victu
+> victu
+no result for victu
+> videbantur
+no result for videbantur
+> videbat
+no result for videbat
+> vidisset
+no result for vidisset
+> vincti
+no result for vincti
+> vir
+no result for vir
+> viribus
+<u>livymorph.irrnvis9</u><u>lexent.n51113</u>viribus<fem><dat><pl><irregnoun><div><irregnoun><u>irreginfl.0</u>
+<u>livymorph.irrnvis11</u><u>lexent.n51113</u>viribus<fem><abl><pl><irregnoun><div><irregnoun><u>irreginfl.0</u>
+> virtutem
+<u>livymorph.n55</u><u>ls.n51108</u>virt<noun><fem><us_utis><div><us_utis><noun>utem<fem><acc><sg><u>livymorph.us_utis16</u>
+> virum
+<u>livymorph.n56</u><u>ls.n51112</u>vir<noun><masc><us_i><div><us_i><noun>um<masc><acc><sg><u>livymorph.us_i4</u>
+> vis
+<u>livymorph.irrnvis6</u><u>lexent.n51113</u>vis<fem><voc><sg><irregnoun><div><irregnoun><u>irreginfl.0</u>
+<u>livymorph.irrnvis2</u><u>lexent.n51113</u>vis<fem><gen><sg><irregnoun><div><irregnoun><u>irreginfl.0</u>
+<u>livymorph.irrnvis1</u><u>lexent.n51113</u>vis<fem><nom><sg><irregnoun><div><irregnoun><u>irreginfl.0</u>
+<u>livymorph.irrvvolo2</u><u>lexent.n51298</u><#>vis<2nd><sg><pres><indic><act><irregcverb><div><irregcverb><u>irreginfl.3</u>
+> visa
+no result for visa
+> vita
+<u>livymorph.n54</u><u>ls.n51147</u>vit<noun><fem><a_ae><div><a_ae><noun>a<fem><nom><sg><u>livymorph.a_ae1</u>
+<u>livymorph.n54</u><u>ls.n51147</u>vit<noun><fem><a_ae><div><a_ae><noun>a<fem><abl><sg><u>livymorph.a_ae5</u>
+<u>livymorph.n54</u><u>ls.n51147</u>vit<noun><fem><a_ae><div><a_ae><noun>a<fem><voc><sg><u>livymorph.a_ae11</u>
+> vitae
+<u>livymorph.n54</u><u>ls.n51147</u>vit<noun><fem><a_ae><div><a_ae><noun>ae<fem><nom><pl><u>livymorph.a_ae6</u>
+<u>livymorph.n54</u><u>ls.n51147</u>vit<noun><fem><a_ae><div><a_ae><noun>ae<fem><gen><sg><u>livymorph.a_ae2</u>
+<u>livymorph.n54</u><u>ls.n51147</u>vit<noun><fem><a_ae><div><a_ae><noun>ae<fem><dat><sg><u>livymorph.a_ae3</u>
+<u>livymorph.n54</u><u>ls.n51147</u>vit<noun><fem><a_ae><div><a_ae><noun>ae<fem><voc><pl><u>livymorph.a_ae12</u>
+> vobis
+<u>livymorph.irrptu8</u><u>ls.n49339</u>vobis<masc><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrptu20</u><u>ls.n49339</u>vobis<fem><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrptu18</u><u>ls.n49339</u>vobis<fem><dat><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+<u>livymorph.irrptu10</u><u>ls.n49339</u>vobis<masc><abl><pl><irregpron><div><irregpron><u>irreginfl.7</u>
+> volscae
+no result for volscae
+> volsci
+no result for volsci
+> volscis
+no result for volscis
+> volscorum
+no result for volscorum
+> volscos
+no result for volscos
+> volscum
+no result for volscum
